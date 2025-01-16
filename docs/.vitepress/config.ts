@@ -10,7 +10,7 @@ export default defineConfig({
     logo: 'logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/example' },
+      { text: 'Guide', link: '/guide' },
       { text: 'Tutorials', link: '/tutorials' },
       { text: 'Contact', link: '/contact' },
       {
@@ -19,7 +19,7 @@ export default defineConfig({
           {
             text: 'External Links',
             items: [
-              { text: 'Google', link: 'https://www.google.com' },
+              { text: 'Framer', link: 'allbibek.framer.website' },
               { text: 'GitHub', link: 'https://github.com' },
             ],
           },
@@ -32,7 +32,7 @@ export default defineConfig({
       {
         text: 'Guide',
         items: [
-          { text: 'Getting Started', link: '/newpost' },
+          { text: 'Getting Started', link: '/guide' },
           { text: 'Tutorials', link: '/tutorials' },
         ],
       },
