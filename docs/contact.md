@@ -2,7 +2,7 @@
 
 <div class="profile-card">
   <div class="profile-header">
-    <img src="https://avatars.githubusercontent.com/u/yourusername" alt="Profile Picture" class="profile-avatar">
+    <img src="/public/hero.png" alt="Profile Picture" class="profile-avatar">
     <div class="profile-info">
       <h2>Your Name</h2>
       <p>Senior Software Developer</p>
