@@ -6,7 +6,7 @@ hero:
   text: "Modern Development Resources"
   tagline: Discover a collection of tutorials, guides, and best practices for modern web development.
   image:
-    src: https://raw.githubusercontent.com/vuejs/vitepress/main/docs/public/logo.svg
+    src: 'hero.png'
     alt: Allbibek
   actions:
     - theme: brand
