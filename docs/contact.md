@@ -1,4 +1,4 @@
-# Contact Me
+# <span class="title">Contact Me</span>
 
 <div class="profile-card">
   <div class="profile-header">
@@ -11,26 +11,26 @@
   </div>
 </div>
 
-## Get in Touch
+## <span class="title"> Get in Touch</span>
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out through any of the following channels!
 
-## Social Media
+## <span class="title"> Social Media</span>
 
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/allbibek)
-- 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/ardibukan)
-- 🐱 **GitHub**: [yourusername](https://github.com/diarboy)
+- 🐦 **Twitter**: <span class="title">[@allbibek](https://twitter.com/allbibek)</span>
+- 💼 **LinkedIn**: <span class="title">[Ardi Syah](https://linkedin.com/in/ardibukan)</span>
+- 🐱 **GitHub**: <span class="title"> [@diarboy](https://github.com/diarboy)</span>
 
-## Direct Contact
+## <span class="title">Direct Contact</span>
 
 ::: tip
 The best way to reach me is through email or LinkedIn message.
 :::
 
-- 📧 **Email**: your.email@example.com
-- 💬 **Discord**: username#1234
+- 📧 **Email**: art_cha@yahoo.com
+- 💬 **Discord**: I don't have yet
 
-## Office Hours
+## <span class="title">Office Hours</span>
 
 I'm typically available for meetings and calls during these hours (UTC+7):
 
@@ -42,7 +42,7 @@ I'm typically available for meetings and calls during these hours (UTC+7):
 | Thursday  | 09:00 - 17:00 |
 | Friday    | 09:00 - 15:00 |
 
-## Consultation
+## <span class="title">Consultation</span>
 
 Need professional consultation? I offer services in:
 
@@ -58,7 +58,7 @@ Please contact me directly for current consultation rates. Rates vary based on:
 - Type of service
 :::
 
-## FAQ
+## <span class="title">FAQ</span>
 
 ### Do you accept guest blog posts?
 
@@ -76,7 +76,7 @@ I'm available for speaking engagements on topics related to:
 
 Yes, I provide mentoring services for developers looking to advance their careers. Contact me for availability and details.
 
-## Newsletter
+## <span class="title">Newsletter</span>
 
 Stay updated with my latest blog posts, tutorials, and tech insights!
 
@@ -84,7 +84,7 @@ Stay updated with my latest blog posts, tutorials, and tech insights!
 [Click here](#) to subscribe to my weekly newsletter
 :::
 
-## Location
+## <span class="title">Location</span>
 
 Based in Indonesia, but available globally through remote collaboration.
 

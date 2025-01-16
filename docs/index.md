@@ -83,7 +83,7 @@ features:
 
 Allbibek is your go-to resource for modern web development knowledge. Whether you're a beginner or an experienced developer, our comprehensive guides and tutorials will help you level up your skills.
 
-## Latest Updates
+## <span class="title">Latest Updates</span>
 
 - 🆕 New tutorial: Advanced TypeScript Patterns
 - 📚 Updated documentation for Vue 3 Composition API
