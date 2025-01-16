@@ -39,8 +39,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername' },
-      { icon: 'twitter', link: 'https://twitter.com/yourusername' },
+      { icon: 'github', link: 'https://github.com/diarboy' },
+      { icon: 'twitter', link: 'https://twitter.com/allbibek' },
     ],
 
     footer: {
