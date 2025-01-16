@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /example
+      link: /newpost
     - theme: alt
       text: View Tutorials
       link: /tutorials
@@ -41,45 +41,9 @@ features:
 
 ---
 
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #4c09b9 50%);
-  --vp-home-hero-image-filter: blur(40px);
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(72px);
-  }
-}
-
-.VPFeature {
-  transition: transform 0.2s ease-in-out;
-}
-
-.VPFeature:hover {
-  transform: translateY(-2px);
-}
-
-.title {
-  background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-</style>
-
 <div class="vp-doc" style="padding: 2rem;">
 
-## <span class="title">Why Allbibek?</span>
+## Why Allbibek?
 
 Allbibek is your go-to resource for modern web development knowledge. Whether you're a beginner or an experienced developer, our comprehensive guides and tutorials will help you level up your skills.
 

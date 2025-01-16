@@ -1,16 +1,5 @@
 # Contact Me
 
-<div class="profile-card">
-  <div class="profile-header">
-    <img src="https://avatars.githubusercontent.com/u/yourusername" alt="Profile Picture" class="profile-avatar">
-    <div class="profile-info">
-      <h2>Your Name</h2>
-      <p>Senior Software Developer</p>
-      <p>🌍 Based in Indonesia</p>
-    </div>
-  </div>
-</div>
-
 ## Get in Touch
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out through any of the following channels!
@@ -91,57 +80,3 @@ Based in Indonesia, but available globally through remote collaboration.
 ---
 
 Looking forward to connecting with you! 🚀
-
-<style>
-.profile-card {
-  background: linear-gradient(145deg, #ffffff, #f5f5f5);
-  border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  padding: 2rem;
-  margin: 2rem 0;
-  transition: transform 0.2s ease-in-out;
-}
-
-.profile-card:hover {
-  transform: translateY(-5px);
-}
-
-.profile-header {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-}
-
-.profile-avatar {
-  width: 120px;
-  height: 120px;
-  border-radius: 60px;
-  object-fit: cover;
-  border: 4px solid white;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
-
-.profile-info {
-  flex: 1;
-}
-
-.profile-info h2 {
-  margin: 0;
-  background: linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.profile-info p {
-  margin: 0.5rem 0;
-  color: #666;
-}
-
-@media (max-width: 640px) {
-  .profile-header {
-    flex-direction: column;
-    text-align: center;
-    gap: 1rem;
-  }
-}
-</style>

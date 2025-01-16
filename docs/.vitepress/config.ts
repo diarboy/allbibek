@@ -7,12 +7,25 @@ export default defineConfig({
   base: '/allbibek/',
 
   themeConfig: {
-    logo: 'https://raw.githubusercontent.com/vuejs/vitepress/main/docs/public/logo.svg',
+    logo: 'logo.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/example' },
       { text: 'Tutorials', link: '/tutorials' },
       { text: 'Contact', link: '/contact' },
+      {
+        text: 'Resources', // Dropdown lainnya
+        items: [
+          {
+            text: 'External Links',
+            items: [
+              { text: 'Google', link: 'https://www.google.com' },
+              { text: 'GitHub', link: 'https://github.com' },
+            ],
+          },
+          { text: 'Internal Link', link: '/resources/internal/' },
+        ],
+      },
     ],
 
     sidebar: [
