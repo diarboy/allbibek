@@ -10,6 +10,9 @@ hero:
       text: Ayo Mulai
       link: /example
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: View on GitHub 
+      link: https://github.com/diarboy
+    - theme: brand
+      text: Explore
+      link: /newpost
 ---
