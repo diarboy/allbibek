@@ -4,7 +4,7 @@
   <div class="profile-header">
     <img src="/public/hero.png" alt="Profile Picture" class="profile-avatar">
     <div class="profile-info">
-      <h2>Your Name</h2>
+      <h2>Allbibek</h2>
       <p>Senior Software Developer</p>
       <p>🌍 Based in Indonesia</p>
     </div>
@@ -17,9 +17,9 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 
 ## Social Media
 
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- 🐱 **GitHub**: [yourusername](https://github.com/yourusername)
+- 🐦 **Twitter**: [@yourusername](https://twitter.com/allbibek)
+- 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/ardibukan)
+- 🐱 **GitHub**: [yourusername](https://github.com/diarboy)
 
 ## Direct Contact
 
