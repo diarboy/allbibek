@@ -1,4 +1,4 @@
-# Allbibek 💙 StackBlitz
+# Allbibek 💙 Example
 
 Hi there :wave: This is a demo running VitePress within your **browser tab**!
 

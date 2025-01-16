@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /example
+      link: /newpost
     - theme: alt
       text: View Tutorials
       link: /tutorials
