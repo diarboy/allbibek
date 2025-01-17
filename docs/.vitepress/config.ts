@@ -20,7 +20,8 @@ export default defineConfig({
             text: 'External Links',
             items: [
               { text: 'Framer', link: 'https://allbibek.framer.website/' },
-              { text: 'GitHub', link: 'https://github.com' },
+              { text: 'GitHub', link: 'https://github.com/diarboy' },
+              { text: 'Meta', link: 'https://facebook.com/ardibukan' },
             ],
           },
           { text: 'Internal Link', link: '/resources/internal/' },
