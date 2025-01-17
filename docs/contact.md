@@ -2,7 +2,7 @@
 
 <div class="profile-card">
   <div class="profile-header">
-    <img src="/public/hero.png" alt="Profile Picture" class="profile-avatar">
+    <img src="/hero.png" alt="Profile Picture" class="profile-avatar">
     <div class="profile-info">
       <h2>Allbibek</h2>
       <p>Senior Software Developer</p>
@@ -99,7 +99,7 @@ Looking forward to connecting with you! 🚀
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   padding: 2rem;
   margin: 2rem 0;
-  transition: transform 0.2s ease-in-out;
+  transition: transform 0.4s ease-in-out;
 }
 
 .profile-card:hover {
