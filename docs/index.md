@@ -75,6 +75,17 @@ features:
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+/* background: -webkit-linear-gradient(315deg, #a1c4fd, #c2e9fb); blue */
+/* background: -webkit-linear-gradient(315deg, #9d50bb, #6e48aa); purple */
+/* background: -webkit-linear-gradient(315deg, #f6d365, #fda085); gold */
+
+.subtitle {
+  background: -webkit-linear-gradient(315deg, #9d50bb, #6e48aa);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 </style>
 
 <div class="vp-doc" style="padding: 2rem;">

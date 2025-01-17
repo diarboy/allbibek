@@ -94,7 +94,7 @@ Looking forward to connecting with you! 🚀
 
 <style>
 .profile-card {
-  background: linear-gradient(145deg, #ffffff, #f5f5f5);
+  /* background: linear-gradient(145deg, rgba(255, 255, 255, 0.2), rgba(245, 245, 245, 0.3)); */
   border-radius: 16px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   padding: 2rem;
