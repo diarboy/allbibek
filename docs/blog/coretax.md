@@ -65,7 +65,7 @@ Total Harga = Rp10.000.000 + Rp1.200.000 = Rp11.200.000
 > "Dengan Coretax, Direktorat Jenderal Pajak membawa revolusi dalam administrasi perpajakan, menjadikan semuanya lebih sederhana, efisien, dan transparan."
 
 ## <span class="title">Ilustrasi</span>
-![Integrasi Coretax](https://via.placeholder.com/800x400?text=Integrasi+Layanan+Coretax)
+![Integrasi Coretax](https://www.shutterstock.com/image-photo/bontang-kalimantan-timur-indonesia-january-260nw-2568269819.jpg)
 
 ## <span class="title">Final Thoughts</span>
 

@@ -36,7 +36,14 @@ export default defineConfig({
           { text: 'Tutorials', link: '/tutorials' },
         ],
       },
+      {
+        text: 'Blog',
+        items: [
+          { text: 'Coretax', link: '/blog/coretax' },
+        ],
+      },
     ],
+    
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/diarboy' },
