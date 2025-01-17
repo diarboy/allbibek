@@ -6,16 +6,25 @@ export default defineConfig({
   description: 'Vite & Vue powered static site generator.',
   base: '/allbibek/',
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/allbibek/favicon.svg' }]
+  ],
+
   themeConfig: {
-    logo: 'logo.svg',
+    logo: 'public/favicon.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide' },
-      { text: 'Tutorials', link: '/tutorials' },
       { text: 'Contact', link: '/contact' },
       {
-        text: 'Resources', // Dropdown lainnya
+        text: 'Resources', 
         items: [
+          { 
+            text: 'Internal Link', 
+            items: [
+              { text: 'Link 1', link: '/resources/internal/' },
+            ],
+          },
           {
             text: 'External Links',
             items: [
@@ -24,7 +33,7 @@ export default defineConfig({
               { text: 'Meta', link: 'https://facebook.com/ardibukan' },
             ],
           },
-          { text: 'Internal Link', link: '/resources/internal/' },
+          
         ],
       },
     ],
@@ -48,7 +57,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/diarboy' },
-      { icon: 'twitter', link: 'https://twitter.com/allbibek' },
+      { icon: 'atlassian', link: 'https://allbibek.framer.website' },
     ],
 
     footer: {
