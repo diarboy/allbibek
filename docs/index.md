@@ -12,9 +12,7 @@ hero:
     - theme: brand
       text: Get Started
       link: /guide
-    - theme: alt
-      text: View Tutorials
-      link: /tutorials
+      
     - theme: alt
       text: Contact Me
       link: /contact
