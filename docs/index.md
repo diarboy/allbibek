@@ -6,13 +6,15 @@ hero:
   text: "Modern Development Resources"
   tagline: Discover a collection of tutorials, guides, and best practices for modern web development.
   image:
-    src: /hero.png
+    src: hero.png
     alt: Allbibek
   actions:
     - theme: brand
       text: Get Started
       link: /guide
-      
+    - theme: alt
+      text: View Tutorials
+      link: /tutorials
     - theme: alt
       text: Contact Me
       link: /contact
