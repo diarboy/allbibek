@@ -2,7 +2,7 @@
 
 <div class="profile-card">
   <div class="profile-header">
-    <img src="/allbibek/hero.png" alt="Profile Picture" class="profile-avatar">
+    <img src="/hero.png" alt="Profile Picture" class="profile-avatar">
     <div class="profile-info">
       <h2>Allbibek</h2>
       <p>Senior Software Developer</p>
