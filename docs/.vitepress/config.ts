@@ -11,12 +11,6 @@ export default defineConfig({
     ['link', { rel: 'stylesheet', href: '/allbibek/custom.css' }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }],
     ],
-  
-  markdown: {
-    math: true,
-    // Configure languages for syntax highlighting
-    languages: ['javascript', 'python', 'vue', 'html', 'css', 'typescript', 'bash', 'markdown']
-  },
 
   themeConfig: {
     logo: '/favicon.svg',
