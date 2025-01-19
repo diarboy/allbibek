@@ -58,6 +58,7 @@ export default defineConfig({
       {
         text: 'Blog',
         items: [
+          { text: 'Full-Stack Website', link: '/blog/full-stack' },
           { text: 'Coretax', link: '/blog/coretax' },
         ],
       },
