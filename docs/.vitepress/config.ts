@@ -10,11 +10,12 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/allbibek/favicon.svg' }],
     ['link', { rel: 'stylesheet', href: '/allbibek/custom.css' }],
-    ],
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }],
+  ],
   
   markdown: {
     config: (md) => {
-      md.use(mathjax3); // Integrasikan MathJax untuk mendukung persamaan matematika
+      md.use(mathjax3); 
     },
   },
 
