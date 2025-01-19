@@ -7,7 +7,8 @@ export default defineConfig({
   base: '/allbibek/',
 
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/allbibek/favicon.svg' }]
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/allbibek/favicon.svg' }],
+    ['link', { rel: 'stylesheet', href: '/allbibek/custom.css' }]
   ],
 
   themeConfig: {
