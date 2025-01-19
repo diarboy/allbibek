@@ -7,6 +7,11 @@
     "docs:preview": "vitepress preview docs",
     "deploy": "vitepress build docs && gh-pages -d docs/.vitepress/dist"
   },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "markdown-it-mathjax3": "^4.3.2"
+  },
+  
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "vitepress": "latest"
