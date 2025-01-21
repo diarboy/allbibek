@@ -31,7 +31,7 @@ export default defineConfig({
           { 
             text: 'Internal Link', 
             items: [
-              { text: 'Link 1', link: '/resources/internal/' },
+              { text: '404', link: '/resources/internal/' },
             ],
           },
           {
