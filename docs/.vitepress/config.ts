@@ -60,6 +60,7 @@ export default defineConfig({
         items: [
           { text: 'Full-Stack Website', link: '/blog/full-stack' },
           { text: 'Coretax', link: '/blog/coretax' },
+          { text: 'Perbedaan Perdagangan Besar dan Eceran', link: '/blog/perdagangan' },
         ],
       },
     ],
