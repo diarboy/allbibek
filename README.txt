@@ -20,4 +20,3 @@ my-project/
 ├── package-lock.json
 ├── package.json
 ├── .gitignore
-├── vite.config.js
