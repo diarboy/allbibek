@@ -1,4 +1,4 @@
-# Perbedaan Perdagangan Besar, Eceran, Agen, Distributor, dan Pangkalan
+# Perbedaan Peran dalam Perdagangan
 
 ## Perdagangan Besar dan Eceran (KBLI 2020)
 
