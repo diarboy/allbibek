@@ -34,6 +34,7 @@
 - **Perdagangan Eceran**: Lebih berorientasi pada pelayanan pelanggan akhir, dengan lokasi strategis seperti toko atau kios.
 
 ---
+
 ## Agen, Distributor, dan Pangkalan
 
 ### Agen
