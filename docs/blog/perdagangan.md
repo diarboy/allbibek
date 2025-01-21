@@ -1,9 +1,6 @@
 # Perbedaan Peran dalam Perdagangan
 
 Dalam dunia perdagangan dan distribusi, terdapat berbagai peran seperti perdagangan besar, eceran, agen, distributor, dan pangkalan. Setiap peran memiliki fungsi, karakteristik, dan tujuan yang berbeda dalam rantai pasok. Berikut adalah perbedaan peran dalam perdagangan:
-
-@toc
-
 ## Perdagangan Besar dan Eceran (KBLI 2020)
 
 ### Perdagangan Besar
