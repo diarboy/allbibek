@@ -21,7 +21,6 @@ export default defineConfig({
 
   themeConfig: {
     logo: '/favicon.svg',
-    sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide' },
