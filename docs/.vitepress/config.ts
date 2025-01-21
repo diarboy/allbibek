@@ -57,7 +57,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Blog',
+        text: 'Note',
         items: [
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
