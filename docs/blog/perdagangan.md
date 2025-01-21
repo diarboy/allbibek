@@ -1,5 +1,4 @@
 # Perbedaan Peran dalam Perdagangan
-
 ## Perdagangan Besar dan Eceran (KBLI 2020)
 
 ### Perdagangan Besar
