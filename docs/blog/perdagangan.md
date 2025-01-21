@@ -21,6 +21,7 @@
   - 4711: Perdagangan Eceran di Minimarket, Supermarket, dan Hypermarket.
   - 4741: Perdagangan Eceran Komputer dan Perlengkapannya.
 
+### Perbedaan Utama
 | Aspek                | Perdagangan Besar                    | Perdagangan Eceran                      |
 |----------------------|--------------------------------------|-----------------------------------------|
 | **Definisi**         | Menjual barang ke pedagang, perusahaan, atau institusi lain untuk dijual kembali. | Menjual barang langsung ke konsumen akhir untuk penggunaan pribadi. |
@@ -70,7 +71,7 @@
   - Pangkalan gas LPG.
   - Pangkalan air minum isi ulang.
     
-## Perbedaan Agen, Distributor, dan Pangkalan
+### Perbedaan Utama
 
 | Aspek                | Agen                          | Distributor                     | Pangkalan                         |
 |----------------------|-------------------------------|---------------------------------|-----------------------------------|
