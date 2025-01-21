@@ -53,14 +53,14 @@ export default defineConfig({
         items: [
           { text: 'Getting Started', link: '/guide' },
           { text: 'Tutorials', link: '/tutorials' },
+          { text: 'Full-Stack Website', link: '/blog/full-stack' },
         ],
       },
       {
         text: 'Blog',
         items: [
-          { text: 'Full-Stack Website', link: '/blog/full-stack' },
           { text: 'Coretax', link: '/blog/coretax' },
-          { text: 'Perbedaan Perdagangan Besar dan Eceran', link: '/blog/perdagangan' },
+          { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
         ],
       },
     ],
