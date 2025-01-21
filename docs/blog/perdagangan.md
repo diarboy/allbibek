@@ -40,8 +40,6 @@ Dalam dunia perdagangan dan distribusi, terdapat berbagai peran seperti perdagan
 - **Perdagangan Besar**: Biasanya melibatkan kontrak pembelian dalam skala besar, penyimpanan di gudang, dan fokus pada penjualan B2B.
 - **Perdagangan Eceran**: Lebih berorientasi pada pelayanan pelanggan akhir, dengan lokasi strategis seperti toko atau kios.
 
----
-
 ## Agen, Distributor, dan Pangkalan
 
 ### Agen
@@ -95,5 +93,3 @@ Dalam dunia perdagangan dan distribusi, terdapat berbagai peran seperti perdagan
 - **Agen**: Fokus pada pemasaran dengan komisi sebagai bentuk pendapatan. Tidak menyimpan barang dalam jumlah besar.
 - **Distributor**: Berperan sebagai perantara utama antara produsen dan pengecer, menyimpan stok barang.
 - **Pangkalan**: Beroperasi di wilayah lokal, sering kali dengan harga tetap (seperti HET).
-
----
