@@ -32,5 +32,3 @@
 - **Pangkalan**: Beroperasi di wilayah lokal, sering kali dengan harga tetap (seperti HET).
 
 ---
-
-Dengan struktur seperti ini, rangkuman tetap ringkas, tetapi memiliki informasi tambahan yang relevan. Anda bisa menyesuaikan sesuai kebutuhan. 😊
