@@ -61,7 +61,7 @@ export default defineConfig({
       {
         text: 'Note',
         collapsible: true,
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
