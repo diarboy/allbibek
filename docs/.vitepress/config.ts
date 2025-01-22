@@ -50,6 +50,8 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Guide',
+        collapsible: true,
+        collapsed: false,
         items: [
           { text: 'Getting Started', link: '/guide' },
           { text: 'Tutorials', link: '/tutorials' },
@@ -58,6 +60,8 @@ export default defineConfig({
       },
       {
         text: 'Note',
+        collapsible: true,
+        collapsed: false,
         items: [
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
