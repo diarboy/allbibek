@@ -10,7 +10,7 @@ Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pen
 >
 > "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
 
-![Ilustrasi]([https://example.com/image2.jpg](https://www.vecteezy.com/vector-art/7071597-hand-drawn-doodle-finger-in-mouth-gesture-symbol-for-silence-illustration))
+[Ilustrasi]([https://example.com/image2.jpg](https://www.vecteezy.com/vector-art/7071597-hand-drawn-doodle-finger-in-mouth-gesture-symbol-for-silence-illustration))
 
 ## Menjadi Orang yang "Iya-Iya Saja"
 
