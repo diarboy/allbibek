@@ -2,6 +2,7 @@
 
 <div class="profile-card">
   <div class="profile-header">
+  <img src="/allbibek/hero.png" alt="Avatar Allbibek" class="avatar" style="width:200px; border-radius:50%;">
     <div class="profile-info">
       <h2>Allbibek</h2>
       <p>Senior Software Developer</p>
