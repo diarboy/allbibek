@@ -2,7 +2,7 @@
 ## _Ikuti Saja: Begini Cara Bertahan di Indonesia_
 ![VitePress Logo](https://vitepress.dev/vitepress-logo-large.webp)
 
-![Ilustrasi](https://pin.it/1eeEb9I7U](https://img.lovepik.com/free-png/20211129/lovepik-teenage-hand-drawn-girl-illustration-image-png-image_401198785_wh1200.png)
+![Ilustrasi](https://img.lovepik.com/free-png/20211129/lovepik-teenage-hand-drawn-girl-illustration-image-png-image_401198785_wh1200.png)
 
 ## Menjadi Orang yang "Iya-Iya Saja"
 
