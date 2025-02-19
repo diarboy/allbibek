@@ -10,8 +10,6 @@ Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pen
 >
 > "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
 
-![Ilustrasi]([https://example.com/image2.jpg](https://www.vecteezy.com/vector-art/7071597-hand-drawn-doodle-finger-in-mouth-gesture-symbol-for-silence-illustration))
-
 ## Menjadi Orang yang "Iya-Iya Saja"
 
 Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
