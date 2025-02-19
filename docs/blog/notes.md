@@ -1,7 +1,7 @@
 # Jangan Banyak Tanya!
 ## _Ikuti Saja: Begini Cara Bertahan di Indonesia_
 ![VitePress Logo](https://vitepress.dev/vitepress-logo-large.webp)
-
+![Ilustrasi](https://pin.it/1eeEb9I7U)
 ## Menjadi Orang yang "Iya-Iya Saja"
 
 Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
