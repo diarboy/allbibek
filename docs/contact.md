@@ -2,7 +2,6 @@
 
 <div class="profile-card">
   <div class="profile-header">
-    class="profile-avatar">
     <div class="profile-info">
       <h2>Allbibek</h2>
       <p>Senior Software Developer</p>
