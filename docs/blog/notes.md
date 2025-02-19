@@ -1,4 +1,14 @@
-# Jangan Banyak Tanya, Ikuti Saja: Begini Cara Bertahan di Indonesia
+# Jangan Banyak Tanya!
+## _Ikuti Saja: Begini Cara Bertahan di Indonesia_
+![VitePress Logo](https://vitepress.dev/vitepress-logo-large.webp)
+
+## Menjadi Orang yang "Iya-Iya Saja"
+
+Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
+
+Negara ini birokratis hingga ke akar-akarnya—jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup "normal".
+
+![Ilustrasi Birokrasi](https://example.com/image2.jpg)
 
 ::: tip
 Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:
@@ -9,14 +19,6 @@ Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pen
 > "Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."
 >
 > "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
-
-## Menjadi Orang yang "Iya-Iya Saja"
-
-Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
-
-Negara ini birokratis hingga ke akar-akarnya—jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup "normal".
-
-![Ilustrasi Birokrasi](https://example.com/image2.jpg)
 
 ## Jalan Hidup yang Teratur
 
