@@ -1,6 +1,5 @@
 # Jangan Banyak Tanya!
 ## _Ikuti Saja: Begini Cara Bertahan di Indonesia_
-![VitePress Logo](https://vitepress.dev/vitepress-logo-large.webp)
 
 ![Ilustrasi](https://img.lovepik.com/free-png/20211129/lovepik-teenage-hand-drawn-girl-illustration-image-png-image_401198785_wh1200.png)
 
