@@ -67,6 +67,7 @@ export default defineConfig({
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
           { text: 'Jangan Banyak Tanya', link: '/blog/notes' },
           { text: 'teesttt', link: '/blog/test' },
+          { text: 'teesttt2', link: '/blog/test2' },
         ],
       },
     ],
