@@ -1,7 +1,7 @@
 # Jangan Banyak Tanya!
-## _Ikuti Saja: Begini Cara Bertahan di Indonesia_
-
 ![Ilustrasi](https://img.lovepik.com/free-png/20211129/lovepik-teenage-hand-drawn-girl-illustration-image-png-image_401198785_wh1200.png)
+
+## _Ikuti Saja: Begini Cara Bertahan di Indonesia_
 
 ## Menjadi Orang yang "Iya-Iya Saja"
 
@@ -11,7 +11,7 @@ Negara ini birokratis hingga ke akar-akarnya—jabatan berarti kuasa, kuasa bera
 
 ![Ilustrasi Birokrasi](https://example.com/image2.jpg)
 
-::: tip
+::: 
 Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:
 :::
 
