@@ -31,7 +31,12 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
-  
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+body {
+  font-family: 'Inter', sans-serif;
+}
+
   /* background: -webkit-linear-gradient(315deg, #a1c4fd, #c2e9fb); blue */
   /* background: -webkit-linear-gradient(315deg, #9d50bb, #6e48aa); purple */
   /* background: -webkit-linear-gradient(315deg, #f6d365, #fda085); gold */
