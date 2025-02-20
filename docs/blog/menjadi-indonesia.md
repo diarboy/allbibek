@@ -13,15 +13,16 @@ Negara ini birokratis hingga ke akar-akarnya—jabatan berarti kuasa, kuasa bera
 <img src="/img/sst.jpg" alt="Ilustrasi" style="width: 300px; height: auto; border-radius: 300px;">
 
 
-::: tip IRONISNYA...
-Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:
-:::
 
+Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:
+
+::: tip IRONISNYA...
 > "Wah, sudah pintar sekarang, jadi sudah nggak butuh nasihat orang tua?"
 >
 > "Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."
 >
 > "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
+:::
 
 ## Jalan Hidup yang Teratur
 
