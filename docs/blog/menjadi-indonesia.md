@@ -1,10 +1,10 @@
-# Jangan Banyak Tanya!
+# Menjadi Orang Indonesia
 <h3 style="display: flex; align-items: center; gap: 15px;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
-  <em>Ikuti Saja: <br> Begini Cara Bertahan di Indonesia</br>.</em>
+  <em>Jangan Banyak Tanya! Ikuti Saja! <br> Begini Cara Bertahan di Indonesia</br>.</em>
 </h3>
 
-## Menjadi Orang Indonesia"
+## Iya-iya saja
 
 Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
 
