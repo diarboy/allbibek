@@ -4,6 +4,12 @@
   <em>Ikuti Saja! <br> Begini Cara Bertahan di Indonesia</br>.</em>
 </p>
 
+<h1 style="font-size: 2em; font-weight: bold;">Jangan Banyak Tanya!</h1>
+<p style="display: flex; align-items: center; gap: 15px; flex-direction: row-reverse;">
+  <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
+  <em style="font-size: 1.2em;">Ikuti Saja! <br> Begini Cara Bertahan di Indonesia</br>.</em>
+</p>
+
 ## Manut Saja
 
 Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
