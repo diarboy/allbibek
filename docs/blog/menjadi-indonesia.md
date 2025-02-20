@@ -1,6 +1,6 @@
 # Survival in Wakanda
 
-<div style="display: flex; align-items: center; gap: 15px; flex-direction: row-reverse;">
+<div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
   <div>
     <h1 style="font-size: 2em; font-weight: bold; margin-bottom: 10px;">Jangan Banyak Tanya!</h1>
