@@ -79,7 +79,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/diarboy' },
       { icon: 'atlassian', link: 'https://allbibek.framer.website' },
     ],
-
+    
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present allbibek'

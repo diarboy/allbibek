@@ -5,7 +5,7 @@
   display: flex;
   align-items: center;
   gap: 15px;
-  flex-direction: row-reverse;
+  flex-direction: row;
 }
 
 .responsive-flex img {
