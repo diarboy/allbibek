@@ -12,7 +12,7 @@
 
 Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
 
-Negara ini birokratis hingga ke akar-akarnya.Jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup "normal".
+Negara ini birokratis hingga ke akar-akarnya.Jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup `normal`.
 
 <img src="/img/sst.jpg" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 30px;">
 
