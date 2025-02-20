@@ -39,7 +39,7 @@ Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> me
 
 _Akibatnya, kebenaran baru bisa ditegakkan setelah ***viral*** saja._
 
-## Kesepian Ilmu Pengetahuan
+## Krisis Nalar
 
 Menjadi seseorang yang percaya pada ilmu pengetahuan di negeri ini berarti siap menanggung beban kesepian. Karena orang-orang akan mempertanyakan dan meragukanmu. Mereka akan menganggapmu aneh karena lebih memilih fakta daripada tradisi, lebih memilih logika daripada mitos, lebih memilih jadi skeptis daripada tunduk.
 
@@ -65,6 +65,6 @@ Tapi haruskah kita menyerah? Tidak. Revolusi berpikir adalah awal dari revolusi 
 
 ## Menuju Kebenaran
 
-Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
+>Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295291571971" height="524" width="600" frameborder="0" scrolling="no" ></iframe>
