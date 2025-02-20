@@ -1,7 +1,8 @@
 # Jangan Banyak Tanya!
-![Ilustrasi](https://img.lovepik.com/free-png/20211129/lovepik-teenage-hand-drawn-girl-illustration-image-png-image_401198785_wh1200.png)
-
-## _Ikuti Saja: Begini Cara Bertahan di Indonesia_
+<h3 style="display: flex; align-items: center; gap: 15px;">
+  <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
+  <em>Ikuti Saja: <br> Begini Cara Bertahan di Indonesia</br>.</em>
+</h3>
 
 ## Menjadi Orang yang "Iya-Iya Saja"
 
@@ -9,9 +10,10 @@ Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada il
 
 Negara ini birokratis hingga ke akar-akarnya—jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup "normal".
 
-![Ilustrasi Birokrasi](https://example.com/image2.jpg)
+<img src="/img/sst.jpg" alt="Ilustrasi" style="width: 300px; height: auto; border-radius: 300px;">
 
-::: 
+
+::: tip IRONISNYA...
 Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:
 :::
 
@@ -25,7 +27,7 @@ Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pen
 
 Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat—cukup berdoa dan bersedekah saja.
 
-Kita iya-iya saja menerima dogma bahwa depresi berarti kurang ibadah. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
+Kita <span style="background-color: yellow; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti kurang ibadah. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
 _Akibatnya, kebenaran baru bisa ditegakkan setelah viral saja._
 

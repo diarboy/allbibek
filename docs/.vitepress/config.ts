@@ -11,6 +11,7 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/allbibek/favicon.svg' }],
     ['link', { rel: 'stylesheet', href: '/allbibek/custom.css' }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }],
+    ['link', { rel: 'stylesheet', href: 'https://api.fontshare.com/v2/css?f=manrope&display=swap' }],
   ],
   
   markdown: {
@@ -65,8 +66,7 @@ export default defineConfig({
         items: [
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
-          { text: 'Jangan Banyak Tanya', link: '/blog/notes' },
-          { text: 'utopis', link: '/blog/utopis' },
+          { text: 'Menjadi Indonesia', link: '/blog/menjadi-indonesia' },
         ],
       },
     ],

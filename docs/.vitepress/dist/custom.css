@@ -1,3 +1,5 @@
+@import url('https://api.fontshare.com/v2/css?f=manrope&display=swap');
+
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
@@ -16,7 +18,16 @@
       --vp-home-hero-image-filter: blur(72px);
     }
   }
-  
+
+  body {
+    font-family: 'Manrope', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Manrope', sans-serif;
+    font-weight: bold;
+  }
+
   .VPFeature {
     transition: transform 0.2s ease-in-out;
   }
@@ -31,7 +42,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
-  
+
   /* background: -webkit-linear-gradient(315deg, #a1c4fd, #c2e9fb); blue */
   /* background: -webkit-linear-gradient(315deg, #9d50bb, #6e48aa); purple */
   /* background: -webkit-linear-gradient(315deg, #f6d365, #fda085); gold */
