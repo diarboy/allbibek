@@ -4,19 +4,17 @@
   <em>Ikuti Saja: <br> Begini Cara Bertahan di Indonesia</br>.</em>
 </h3>
 
-## Menjadi Orang yang "Iya-Iya Saja"
+## Menjadi Orang Indonesia"
 
 Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
 
 Negara ini birokratis hingga ke akar-akarnya—jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup "normal".
 
-<img src="/img/sst.jpg" alt="Ilustrasi" style="width: 300px; height: auto; border-radius: 300px;">
-
-
+<img src="/img/sst.jpg" alt="Ilustrasi" style="width: 300px; height: auto; border-radius: 100px;">
 
 Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:
 
-::: tip IRONISNYA...
+::: warning IRONISNYA...
 > "Wah, sudah pintar sekarang, jadi sudah nggak butuh nasihat orang tua?"
 >
 > "Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."
@@ -28,7 +26,7 @@ Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pen
 
 Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat—cukup berdoa dan bersedekah saja.
 
-Kita <span style="background-color: yellow; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti kurang ibadah. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
+Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti kurang ibadah. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
 _Akibatnya, kebenaran baru bisa ditegakkan setelah viral saja._
 
@@ -38,7 +36,7 @@ Menjadi seseorang yang percaya pada ilmu pengetahuan di negeri ini berarti siap 
 
 Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sistem yang menjauhkan masyarakat dari sikap kritis. Feodalisme menempatkan kuasa dan pengetahuan di tangan segelintir orang, sementara rakyat hanya bisa tunduk, pasif, dan mudah dikendalikan.
 
-![Ilustrasi Logika Mistika](https://example.com/image3.jpg)
+![Ilustrasi](https://example.com/image3.jpg)
 
 ## Revolusi Berpikir
 
@@ -54,4 +52,4 @@ Tapi haruskah kita menyerah? Tidak. Revolusi berpikir adalah awal dari revolusi 
 
 Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 
-![Ilustrasi Kebenaran](https://example.com/image4.jpg)
+![Ilustrasi](https://example.com/image4.jpg)
