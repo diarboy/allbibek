@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "allbibek"
-  text: "Every lesson is a step in the journey, and every note is a trace leading to deeper understanding"
-  tagline: Dive into a world of coding, creativity, and problem-solving, shared from my journey to yours. Together, let's explore programming, design, and personal growth as we build and innovate.
+  text: "Develop, Build, and Innovate with Confidence"
+  tagline: Every lesson is a step in the journey, and every note is a trace leading to deeper understanding. Dive into a world of coding, creativity, and problem-solving, shared from my journey to yours. Together, let's explore programming, design, and personal growth as we build and innovate.
   image:
     src: /hero.png
     alt: Allbibek
