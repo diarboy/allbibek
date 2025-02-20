@@ -1,8 +1,8 @@
-# Jangan Banyak Tanya! Ikuti Saja!
-<h3 style="display: flex; align-items: center; gap: 15px;">
+# Jangan Banyak Tanya!
+<p style="display: flex; align-items: center; gap: 15px;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
-  <em> <br> Begini Cara Bertahan di Indonesia</br>.</em>
-</h3>
+  <em>Ikuti Saja! <br> Begini Cara Bertahan di Indonesia</br>.</em>
+</p>
 
 ## Manut Saja
 
