@@ -1,17 +1,10 @@
 # Survival of The Shittest
+
 <div class="responsive-flex">
   <img src="/img/sst.png" alt="Ilustrasi">
   <div>
     <h5>Jangan Banyak Tanya!</h5>
     <em>Ikuti Saja! Begini Cara Bertahan di Indonesia.</em>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
-  <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
-  <div style="text-align: center;">
-    <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Jangan Banyak Tanya!</h5>
-    <em style="font-size: 1em;">Ikuti Saja! Begini Cara Bertahan di Indonesia.</em>
   </div>
 </div>
 
@@ -49,6 +42,14 @@ Menjadi seseorang yang percaya pada ilmu pengetahuan di negeri ini berarti siap 
 Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sistem yang menjauhkan masyarakat dari sikap kritis. Feodalisme menempatkan kuasa dan pengetahuan di tangan segelintir orang, sementara rakyat hanya bisa tunduk, pasif, dan mudah dikendalikan.
 
 ![Ilustrasi](https://example.com/image3.jpg)
+
+<div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
+  <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
+  <div style="text-align: center;">
+    <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Jangan Banyak Tanya!</h5>
+    <em style="font-size: 1em;">Ikuti Saja! Begini Cara Bertahan di Indonesia.</em>
+  </div>
+</div>
 
 ## Revolusi Berpikir
 
