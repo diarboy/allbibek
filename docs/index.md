@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "allbibek"
+  name: "Allbibek"
   text: "Develop, Build, and Innovate with Confidence"
   tagline: Every lesson is a step in the journey, and every note is a trace leading to deeper understanding. Dive into a world of coding, creativity, and problem-solving, shared from my journey to yours. Together, let's explore programming, design, and personal growth as we build and innovate.
   image:
@@ -40,7 +40,7 @@ features:
 
 <div class="vp-doc" style="padding: 2rem;">
 
-## <span class="title">Why Allbibek?</span>
+## <span class="title">What are Allbibek?</span>
 
 Allbibek is your go-to resource for modern web development knowledge. Whether you're a beginner or an experienced developer, our comprehensive guides and tutorials will help you level up your skills.
 
