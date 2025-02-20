@@ -1,20 +1,20 @@
 # Menjadi Orang Indonesia
 <h3 style="display: flex; align-items: center; gap: 15px;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
-  <em>Jangan Banyak Tanya! Ikuti Saja! <br> Begini Cara Bertahan di Indonesia</br>.</em>
+  Jangan Banyak Tanya! Ikuti Saja! <em> <br> Begini Cara Bertahan di Indonesia</br>.</em>
 </h3>
 
-## Iya-iya saja
+## Manut Saja
 
 Menjadi orang yang "iya-iya saja" di Indonesia jauh lebih mudah. Percaya pada ilmu pengetahuan bukan hanya sulit, tapi juga bisa menjadi beban. Di sini, mempertanyakan sesuatu berarti mengancam keteraturan. Berpikir kritis bisa membuatmu dijauhi, dicap sok tahu, atau bahkan dianggap tidak menghormati tradisi dan otoritas.
 
-Negara ini birokratis hingga ke akar-akarnya—jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup "normal".
+Negara ini birokratis hingga ke akar-akarnya.Jabatan berarti kuasa, kuasa berarti kehormatan, dan kita dipaksa menelannya mentah-mentah demi hidup "normal".
 
-<img src="/img/sst.jpg" alt="Ilustrasi" style="width: 300px; height: auto; border-radius: 100px;">
+<img src="/img/sst.jpg" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 30px;">
 
 Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:
 
-::: warning IRONISNYA...
+::: danger IRONISNYA...
 > "Wah, sudah pintar sekarang, jadi sudah nggak butuh nasihat orang tua?"
 >
 > "Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."
@@ -22,9 +22,9 @@ Yang ironis, banyak orang setuju bahwa pendidikan itu penting. Namun, ketika pen
 > "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
 :::
 
-## Jalan Hidup yang Teratur
+## Masa Depan Sudah Digariskan
 
-Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat—cukup berdoa dan bersedekah saja.
+Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat, cukup berdoa dan bersedekah saja.
 
 Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti kurang ibadah. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
