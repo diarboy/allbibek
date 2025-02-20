@@ -1,4 +1,37 @@
 # Survival of The Shittest
+<div class="responsive-flex">
+  <img src="/img/sst.png" alt="Ilustrasi">
+  <div>
+    <h5>Jangan Banyak Tanya!</h5>
+    <em>Ikuti Saja! Begini Cara Bertahan di Indonesia.</em>
+  </div>
+</div>
+
+<style>
+.responsive-flex {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex-direction: row; /* Default: horizontal */
+}
+
+.responsive-flex img {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.responsive-flex div {
+  text-align: center;
+}
+
+/* Responsive untuk mobile */
+@media (max-width: 768px) {
+  .responsive-flex {
+    flex-direction: column; /* Mobile: vertikal */
+  }
+}
+</style>
 
 <div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
