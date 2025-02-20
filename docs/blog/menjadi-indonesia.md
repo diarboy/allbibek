@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
-  <div style="text-align: center;">
+  <div class="title" style="text-align: center;">
     <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Jangan Banyak Tanya!</h5>
     <em style="font-size: 1em;">Ikuti Saja! Begini Cara Bertahan di Indonesia.</em>
   </div>
