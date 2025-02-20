@@ -3,7 +3,7 @@ import mathjax3 from 'markdown-it-mathjax3';
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'Allbibek',
+  title: 'allbibek',
   description: 'Vite & Vue powered static site generator.',
   base: '/allbibek/',
 
@@ -82,7 +82,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present Allbibek'
+      copyright: 'Copyright © 2024-present allbibek'
     },
     outline: [2, 3],
   },
