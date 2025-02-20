@@ -25,7 +25,7 @@ Yang ironis, banyak orang setuju bahwa <mark>pendidikan itu penting</mark>. Namu
 ## Masa Depan Sudah Digariskan
 
 Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat.
-> ***cukup berdoa dan bersedekah saja***.
+> ***Cukup berdoa dan bersedekah saja!***.
 
 Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti kurang ibadah. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
