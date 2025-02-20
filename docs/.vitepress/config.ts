@@ -33,7 +33,7 @@ export default defineConfig({
           { 
             text: 'Internal Link', 
             items: [
-              { text: 'Blog', link: '/blog' },
+              { text: 'Blog', link: '/blog/' },
               { text: '404', link: '/resources/internal/' },
             ],
           },
