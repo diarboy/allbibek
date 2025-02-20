@@ -5,7 +5,7 @@
   display: flex;
   align-items: center;
   gap: 15px;
-  flex-direction: row; /* Default: horizontal */
+  flex-direction: row-reverse;
 }
 
 .responsive-flex img {
@@ -21,7 +21,7 @@
 /* Responsive untuk mobile */
 @media (max-width: 768px) {
   .responsive-flex {
-    flex-direction: column; /* Mobile: vertikal */
+    flex-direction: column;
   }
 }
 :root {
