@@ -33,7 +33,7 @@ export default defineConfig({
           { 
             text: 'Internal Link', 
             items: [
-              { text: 'Blog', link: '/blog/' },
+              { text: 'Blog', link: '/blog/menjadi-indonesia' },
               { text: '404', link: '/resources/internal/' },
             ],
           },
@@ -54,7 +54,7 @@ export default defineConfig({
       {
         text: 'Guide',
         collapsible: true,
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Getting Started', link: '/guide' },
           { text: 'Tutorials', link: '/tutorials' },
@@ -64,11 +64,12 @@ export default defineConfig({
       {
         text: 'Blog',
         collapsible: true,
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
           { text: 'Menjadi Indonesia', link: '/blog/menjadi-indonesia' },
+          { text: 'Test', link: '/blog/Test1' },
         ],
       },
     ],
