@@ -1,17 +1,12 @@
-# Jangan Banyak Tanya!
-<p style="display: flex; align-items: center; gap: 15px;">
-  <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
-  <em>Ikuti Saja! <br> Begini Cara Bertahan di Indonesia</br>.</em>
-</p>
+# Survival in Wakanda
 
 <div style="display: flex; align-items: center; gap: 15px; flex-direction: row-reverse;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
   <div>
-    <h1 style="font-size: 2em; font-weight: bold; margin: 0;">Jangan Banyak Tanya!</h1>
+    <h1 style="font-size: 2em; font-weight: bold; margin-bottom: 10px;">Jangan Banyak Tanya!</h1>
     <em style="font-size: 1.2em;">Ikuti Saja! <br> Begini Cara Bertahan di Indonesia.</br></em>
   </div>
 </div>
-
 
 ## Manut Saja
 
