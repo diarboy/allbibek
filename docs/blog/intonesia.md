@@ -57,18 +57,18 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
 
 <div class="responsive-flex">
   <img src="https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg" alt="Ilustrasi"  style="width: 200px; height: auto; border-radius: 5%;">
-  <div style="text-align: left;">
+  <div style="text-align: center;">
     <h5>Normalisasi Ketidaknormalan</h5>
     <em>Welcome To Intonesia.</em>
   </div>
 </div>
 
 ## Revolusi Berpikir
-```vue {}
+<!--
 <PinterestEmbed pinUrl="https://www.pinterest.com/pin/358810295291571971/" />
-```
+-->
 
-Meskipun telah <span style="background-color: aquamarine; padding: 0px 4px;">merdeka</span> dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan *Orang Pintar*.
+Meskipun telah <span style="background-color: red; padding: 0px 4px;">merdeka</span> dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan *Orang Pintar*.
 
 Mungkin dukun sudah sedikit, tapi mereka menjelma jadi influencer, abang-abangan, penjual agama, atau semua yang menjual solusi instan untuk menyelesaikan masalah yang bisa diselesaikan dengan skeptisme, logika, dan ilmu pengetahuan.
 
