@@ -35,7 +35,7 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
 Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat.
 > Cukup berdoa dan bersedekah saja! 🧘🏻
 
-Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti ```kurang ibadah``` 😇. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
+Kita `iya-iya saja` menerima dogma bahwa depresi berarti `kurang ibadah` 😇. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
 > _Akibatnya, kebenaran baru bisa ditegakkan setelah **viral** saja._
 
@@ -57,7 +57,7 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
 
 <PinterestEmbed pinUrl="https://www.pinterest.com/pin/358810295291571971/" />
 
-Meskipun telah ~~merdeka~~ dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan <kbd>"orang pintar"</kbd>.
+Meskipun telah <span style="background-color: red; padding: 0 4px;">merdeka</span> dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan <kbd>"orang pintar"</kbd>.
 
 Mungkin dukun sudah sedikit, tapi mereka menjelma jadi influencer, abang-abangan, penjual agama, atau semua yang menjual solusi instan untuk menyelesaikan masalah yang bisa diselesaikan dengan skeptisme, logika, dan ilmu pengetahuan.
 
@@ -66,17 +66,6 @@ Jika kita terus pasif dan ``"iya-iya saja"``, maka masyarakat yang terjebak dala
 **Tapi haruskah kita menyerah?** Tidak. Revolusi berpikir adalah awal dari revolusi yang sesungguhnya. Kita harus terus mempertanyakan, meski lelah. Kita harus terus mencari kebenaran, meski sedikit kesepian.
 
 ## Menuju Kebenaran
-
+<PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" />
 >Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 >
-
-<PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" />
-
-## Menuju Kebenaran
-
-<div class="quote-container">
-  <blockquote>
-    Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
-  </blockquote>
-  <PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" />
-</div>

@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "Allbibek"
-  text: "Develop, Build, and Innovate with Confidence"
-  tagline: Every lesson is a step in the journey, and every note is a trace leading to deeper understanding. Dive into a world of coding, creativity, and problem-solving, shared from my journey to yours. Together, let's explore programming, design, and personal growth as we build and innovate.
+  name: "allbibek."
+  text: "Develop, Build, <br>and Innovate with Confidence"
+  tagline: Dive into a world of coding, creativity, and problem-solving, shared from my journey to yours. Together, let's explore programming, design, and personal growth as we build and innovate.
   image:
     src: /hero.png
     alt: Allbibek

@@ -1,59 +1,55 @@
 @import url('https://api.fontshare.com/v2/css?f=manrope&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
-.quote-container {
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-  flex-wrap: wrap;
-}
-
-.quote-container blockquote {
-  flex: 1;
-  font-size: 16px;
-  padding: 12px;
-  border-left: 4px solid #ccc;
-  background: #f9f9f9;
-  border-radius: 8px;
-}
-
-.quote-container iframe {
-  flex-shrink: 0;
-  width: 345px;  /* Sesuai ukuran default Pinterest */
-  height: 445px;
-  border-radius: 8px;
-}
-
-.responsive-flex {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-  flex-direction: row;
-}
-
-.responsive-flex img {
-  width: 200px;
-  height: auto;
-  border-radius: 50%;
-}
-
-.responsive-flex div {
-  text-align: center;
-}
-
-/* Responsive untuk mobile */
-@media (max-width: 768px) {
-  .responsive-flex {
-    flex-direction: column;
-  }
-}
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+    --hero-text-gradient-light: linear-gradient(120deg, #bd34fe, #41d1ff 30%);
+    --hero-text-gradient-dark: linear-gradient(120deg, white 10%, #41d1ff);
     --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #4c09b9 50%);
     --vp-home-hero-image-filter: blur(40px);
+    --vp-button-brand-bg: #bd34fe;
+  }
+
+  .VPImage.image-src {
+    max-width: unset;
+    max-height: unset;
+    width: 540px; /* Sesuaikan ukuran image */
+    height: auto;
   }
   
+  @media (max-width: 768px) {
+    .VPImage.image-src {
+      width: 280px;
+      height:auto;
+    }
+  }
+  .VPHomeHero .text {
+    font-family: 'Manrope', sans-serif;
+    font-size: 3.5rem;
+    font-weight: normal;
+    letter-spacing: -0.05em;
+    line-height: 1;
+    color: transparent;
+    background: var(--hero-text-gradient-light);
+    -webkit-background-clip: text;
+    background-clip: text;
+    display: inline-block;
+  }
+
+  html.dark .VPHomeHero .text {
+    background: var(--hero-text-gradient-dark);
+    -webkit-background-clip: text;
+    background-clip: text;
+    display: inline-block;
+  }
+  
+  @media (max-width: 768px) {
+    .VPHomeHero .text {
+      font-size: 2.5rem; 
+    }
+  }
+
   @media (min-width: 640px) {
     :root {
       --vp-home-hero-image-filter: blur(56px);
@@ -67,12 +63,18 @@
   }
 
   body {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Inter', sans-serif;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5, h6,
+  div[class*="vp-doc"] h1, 
+  div[class*="vp-doc"] h2, 
+  div[class*="vp-doc"] h3, 
+  div[class*="vp-doc"] h4, 
+  div[class*="vp-doc"] h5, 
+  div[class*="vp-doc"] h6 {
     font-family: 'Manrope', sans-serif;
-    font-weight: bold;
+    font-weight: light;
   }
 
   .VPFeature {
@@ -99,4 +101,28 @@
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+  }
+
+  .responsive-flex {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex-direction: row;
+  }
+  
+  .responsive-flex img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .responsive-flex div {
+    text-align: center;
+  }
+  
+  /* Responsive untuk mobile */
+  @media (max-width: 768px) {
+    .responsive-flex {
+      flex-direction: column;
+    }
   }
