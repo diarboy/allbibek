@@ -14,9 +14,9 @@ const props = defineProps({
 const frameSize = computed(() => {
   switch (props.pinSize) {
     case "small":
-      return { width: "200", height: "300" };
+      return { width: "236", height: "336" };
     case "large":
-      return { width: "400", height: "600" };
+      return { width: "450", height: "550" };
     default: // Medium (default)
       return { width: "345", height: "445" };
   }
