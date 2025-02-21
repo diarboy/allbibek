@@ -1,6 +1,10 @@
 <script setup>
 import { onMounted } from "vue";
 
+const props = defineProps({
+  pinUrl: String,
+});
+
 onMounted(() => {
   const script = document.createElement("script");
   script.src = "https://assets.pinterest.com/js/pinit.js";
@@ -11,8 +15,5 @@ onMounted(() => {
 </script>
 
 <template>
-  <a
-    data-pin-do="embedPin"
-    href="https://www.pinterest.com/pin/34832597112243536/"
-  ></a>
+  <a data-pin-do="embedPin" :href="pinUrl"></a>
 </template>

@@ -75,4 +75,7 @@ Jika kita terus pasif dan ``"iya-iya saja"``, maka masyarakat yang terjebak dala
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295291571971" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
 ```
 
-<PinterestEmbed />
+<PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" />
+<PinterestEmbed pinUrl="https://www.pinterest.com/pin/12345678901234567/" />
+<PinterestEmbed pinUrl="https://www.pinterest.com/pin/98765432109876543/" />
+
