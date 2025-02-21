@@ -1,4 +1,4 @@
-# Survival of The Shittest
+# <span class="title">Survival of The Shittest</span>
 
 <div class="responsive-flex">
   <img src="/img/sst.png" alt="Ilustrasi">
@@ -24,20 +24,20 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
   </div>
 </div>
 
-> "Wah, sudah pintar sekarang, jadi sudah nggak butuh nasihat orang tua?"
+> 🙎🏻‍♀️ "Wah, sudah pintar sekarang, jadi sudah nggak butuh nasihat orang tua?"
 >
-> "Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."
+> 🤷🏻 "Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."
 >
-> "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
+> 🙅🏻‍♂️ "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
 
 ## Masa Depan Sudah Digariskan
 
 Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat.
-> ***Cukup berdoa dan bersedekah saja!***
+> ***Cukup berdoa dan bersedekah saja! ***🧘🏻
 
-Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti kurang ibadah. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
+Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti <kbd>kurang ibadah</kbd> 😇. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
-_Akibatnya, kebenaran baru bisa ditegakkan setelah ***viral*** saja._
+> _Akibatnya, kebenaran baru bisa ditegakkan setelah ***viral*** saja._
 
 ## Krisis Nalar
 
@@ -55,19 +55,19 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
 
 ## Revolusi Berpikir
 
-Meskipun telah merdeka dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan "orang pintar".
+Meskipun telah ~~merdeka~~ dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan <kbd>"orang pintar"</kbd>.
 
 Mungkin dukun sudah sedikit, tapi mereka menjelma jadi influencer, abang-abangan, penjual agama, atau semua yang menjual solusi instan untuk menyelesaikan masalah yang bisa diselesaikan dengan skeptisme, logika, dan ilmu pengetahuan.
 
 Jika kita terus pasif dan ``"iya-iya saja"``, maka masyarakat yang terjebak dalam logika mistika akan melahirkan pemerintah dengan cara berpikir serupa. Contohnya? Anggaran riset dan anggaran pendidikan, yang lebih kecil daripada biaya rapat DPR di hotel-hotel. Akademisi dikecilkan karena dianggap <mark>"tidak sesuai realita",</mark> sementara paranormal tetap dipercaya lebih dari ilmu.
 
-Tapi haruskah kita menyerah? Tidak. Revolusi berpikir adalah awal dari revolusi yang sesungguhnya. Kita harus terus mempertanyakan, meski lelah. Kita harus terus mencari kebenaran, meski sedikit kesepian.
+**Tapi haruskah kita menyerah?** Tidak. Revolusi berpikir adalah awal dari revolusi yang sesungguhnya. Kita harus terus mempertanyakan, meski lelah. Kita harus terus mencari kebenaran, meski sedikit kesepian.
 
 ## Menuju Kebenaran
 ```<iframe src="https://assets.pinterest.com/ext/embed.html?id=34832597112243536" height="445" width="345" frameborder="0" scrolling="no" ></iframe>```
 
->Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
+>*Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.*
 >
-\<iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295291571971" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+```js <iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295291571971" height="445" width="345" frameborder="0" scrolling="no" ></iframe>```
 
 ```<a data-pin-do="embedPin" href="https://www.pinterest.com/pin/34832597112243536/"></a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script>```
