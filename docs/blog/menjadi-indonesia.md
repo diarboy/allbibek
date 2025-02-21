@@ -20,7 +20,7 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
   <img src="/img/sst.jpg" alt="Ilustrasi" style="width: 150px; height: auto; border-radius: 30%;">
   <div style="text-align: left;">
     <h6 style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;">Yang ironisnya lagi</h6>
-    <p style="font-size: 1em;">Banyak orang setuju bahwa <mark>pendidikan itu penting</mark>. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
+    <p style="font-size: 1em;">Banyak orang setuju bahwa <kbd>pendidikan itu penting</kbd>. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
 Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat.
 > Cukup berdoa dan bersedekah saja! 🧘🏻
 
-Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti <kbd>kurang ibadah</kbd> 😇. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
+Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti ```kurang ibadah``` 😇. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
 <span class="subtitle"> _Akibatnya, kebenaran baru bisa ditegakkan setelah ***viral*** saja._ </span>
 
