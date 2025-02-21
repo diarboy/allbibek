@@ -33,7 +33,7 @@ export default defineConfig({
           { 
             text: 'Internal Link', 
             items: [
-              { text: 'Blog', link: '/blog/menjadi-indonesia' },
+              { text: 'Blog', link: '/blog/intonesia' },
               { text: '404', link: '/resources/internal/' },
             ],
           },

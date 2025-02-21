@@ -46,6 +46,7 @@ Menjadi seseorang yang percaya pada ilmu pengetahuan di negeri ini berarti siap 
 
 Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sistem yang menjauhkan masyarakat dari sikap kritis. Feodalisme menempatkan kuasa dan pengetahuan di tangan segelintir orang, sementara rakyat hanya bisa tunduk, pasif, dan mudah dikendalikan.
 
+```
 <div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
   <img src="https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 5%;">
   <div style="text-align: left;">
@@ -53,12 +54,22 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
     <em style="font-size: 1em;">Welcome To Intonesia.</em>
   </div>
 </div>
+```
+<div class="responsive-flex">
+  <img src="https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg" alt="Ilustrasi"  style="width: 200px; height: auto; border-radius: 5%;">
+  <div style="text-align: left;">
+    <h5>Normalisasi Ketidaknormalan</h5>
+    <em>Welcome To Intonesia.</em>
+  </div>
+</div>
 
 ## Revolusi Berpikir
 ```vue
 pinUrl="https://www.pinterest.com/pin/358810295291571971/"
 ```
-```<PinterestEmbed pinUrl="https://www.pinterest.com/pin/358810295291571971/" />```
+```
+<PinterestEmbed pinUrl="https://www.pinterest.com/pin/358810295291571971/" />
+```
 
 Meskipun telah <span style="background-color: aquamarine; padding: 0px 4px;">merdeka</span> dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan *Orang Pintar*.
 
