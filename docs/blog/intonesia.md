@@ -56,7 +56,7 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
 </div> -->
 
 <div class="responsive-flex">
-  <img src="https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg" alt="Ilustrasi"  style="width: 200px; height: auto; border-radius: 5%;">
+  <img src="https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg" alt="Ilustrasi">
   <div style="text-align: center;">
     <h5>Normalisasi Ketidaknormalan</h5>
     <em>Welcome To Intonesia.</em>
