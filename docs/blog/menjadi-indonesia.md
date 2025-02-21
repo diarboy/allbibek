@@ -62,6 +62,8 @@ Mungkin dukun sudah sedikit, tapi mereka menjelma jadi influencer, abang-abangan
 Jika kita terus pasif dan ``"iya-iya saja"``, maka masyarakat yang terjebak dalam logika mistika akan melahirkan pemerintah dengan cara berpikir serupa. Contohnya? Anggaran riset dan anggaran pendidikan, yang lebih kecil daripada biaya rapat DPR di hotel-hotel. Akademisi dikecilkan karena dianggap <mark>"tidak sesuai realita",</mark> sementara paranormal tetap dipercaya lebih dari ilmu.
 
 Tapi haruskah kita menyerah? Tidak. Revolusi berpikir adalah awal dari revolusi yang sesungguhnya. Kita harus terus mempertanyakan, meski lelah. Kita harus terus mencari kebenaran, meski sedikit kesepian.
+<a data-pin-do="embedPin" href="https://www.pinterest.com/pin/34832597112243536/"></a>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 ## Menuju Kebenaran
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=34832597112243536" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
