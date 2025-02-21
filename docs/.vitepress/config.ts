@@ -68,8 +68,8 @@ export default defineConfig({
         items: [
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
-          { text: 'Menjadi Indonesia', link: '/blog/menjadi-indonesia' },
-          { text: 'Test', link: '/blog/Test1' },
+          { text: 'Menjadi Indonesia', link: '/blog/intonesia' },
+          { text: 'What is Life?', link: '/blog/Test1' },
         ],
       },
     ],
