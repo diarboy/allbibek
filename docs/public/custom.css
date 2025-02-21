@@ -113,6 +113,7 @@
   .responsive-flex img {
     width: 200px;
     height: auto;
+	  border-radius: 50%;
   }
   
   .responsive-flex div {
