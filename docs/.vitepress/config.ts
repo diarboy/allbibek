@@ -28,7 +28,7 @@ export default defineConfig({
       { text: 'Guide', link: '/guide' },
       { text: 'Contact', link: '/contact' },
       {
-        text: 'Resources', 
+        text: 'Blog/Resources', 
         items: [
           { 
             text: 'Internal Link', 
