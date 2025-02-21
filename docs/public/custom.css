@@ -124,10 +124,10 @@
   @media (max-width: 768px) {
     .responsive-flex {
       flex-direction: column;
-			gap: 15px;
+	    gap: 50px;
     }
 		.responsive-flex img {
 			width: 600px;
-			height: 200px;
+			height: 100px;
 		}
   }
