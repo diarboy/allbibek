@@ -33,11 +33,11 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
 ## Masa Depan Sudah Digariskan
 
 Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ketenteraman jiwa, melainkan penerimaan sosial. Jangan terlalu banyak berpikir soal idealisme politik, hak kelompok marginal, atau pemberdayaan masyarakat.
-> ***Cukup berdoa dan bersedekah saja! ***🧘🏻
+> Cukup berdoa dan bersedekah saja! 🧘🏻
 
 Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti <kbd>kurang ibadah</kbd> 😇. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
-> _Akibatnya, kebenaran baru bisa ditegakkan setelah ***viral*** saja._
+<span class="subtitle"> _Akibatnya, kebenaran baru bisa ditegakkan setelah ***viral*** saja._ </span>
 
 ## Krisis Nalar
 
@@ -48,8 +48,8 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
 <div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
   <div style="text-align: center;">
-    <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Jangan Banyak Tanya!</h5>
-    <em style="font-size: 1em;">Ikuti Saja! Begini Cara Bertahan di Indonesia.</em>
+    <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Normalisasi Kebodohan</h5>
+    <em style="font-size: 1em;">Mentalitas inlander warisan feodal.</em>
   </div>
 </div>
 
