@@ -48,8 +48,8 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
 <div style="display: flex; align-items: center; gap: 5px; flex-direction: row;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
   <div style="text-align: center;">
-    <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Normalisasi Kebodohan</h5>
-    <em style="font-size: 1em;">Mentalitas inlander warisan feodal.</em>
+    <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Normalisasi Ketidaknormalan</h5>
+    <em style="font-size: 1em;">Sisi Kontradiktif.</em>
   </div>
 </div>
 
