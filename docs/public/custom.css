@@ -126,4 +126,8 @@
       flex-direction: column;
 			gap: 15px;
     }
+		.responsive-flex img {
+			width: 600px;
+			height: 200px;
+		}
   }
