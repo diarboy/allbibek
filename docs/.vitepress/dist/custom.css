@@ -1,5 +1,29 @@
 @import url('https://api.fontshare.com/v2/css?f=manrope&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap'); */
 
+.responsive-flex {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex-direction: row;
+}
+
+.responsive-flex img {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.responsive-flex div {
+  text-align: center;
+}
+
+/* Responsive untuk mobile */
+@media (max-width: 768px) {
+  .responsive-flex {
+    flex-direction: column;
+  }
+}
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
