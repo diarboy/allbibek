@@ -20,15 +20,15 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
   <img src="/img/sst.jpg" alt="Ilustrasi" style="width: 150px; height: auto; border-radius: 30%;">
   <div style="text-align: left;">
     <h6 style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;">Yang ironisnya lagi</h6>
-    <p style="font-size: 1em;">Banyak orang setuju bahwa <kbd>pendidikan itu penting</kbd>. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
+    <p style="font-size: 1em;">Banyak orang setuju bahwa `pendidikan itu penting`. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
   </div>
 </div>
 
-> 🙎🏻‍♀️ "Wah, sudah pintar sekarang, jadi sudah nggak butuh nasihat orang tua?"
+> 🙎🏻‍♀️ <span class="subtitle">"Wah, sudah pintar sekarang, jadi sudah nggak butuh nasihat orang tua?"</span>
 >
-> 🤷🏻 "Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."
+> 🤷🏻 <span class="subtitle">"Ini realita, mau belajar seperti apa pun, kondisi ini nggak bakal berubah."</span>
 >
-> 🙅🏻‍♂️ "Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."
+> 🙅🏻‍♂️ <span class="subtitle">"Saya sudah mengalami, kamu masih muda, nggak tahu apa-apa."</span>
 
 ## Masa Depan Sudah Digariskan
 
@@ -37,7 +37,7 @@ Di Indonesia, jalan hidup sudah diatur. Tujuan hidup bukan soal passion atau ket
 
 Kita <span style="background-color: red; padding: 0 4px;">iya-iya saja</span> menerima dogma bahwa depresi berarti ```kurang ibadah``` 😇. Kita membiarkan anak jalanan tetap di jalanan dengan sekadar memberikan recehan di lampu merah. Kita diam ketika pemerintah menyalahgunakan pajak, tetapi mencemooh buruh yang berdemo menuntut haknya. Kita tak berbuat apa-apa ketika korban kekerasan disalahkan hanya karena pakaiannya mereka dianggap tidak cukup tertutup.
 
-<span class="subtitle"> _Akibatnya, kebenaran baru bisa ditegakkan setelah ***viral*** saja._ </span>
+> _Akibatnya, kebenaran baru bisa ditegakkan setelah **viral** saja._
 
 ## Krisis Nalar
 
@@ -45,7 +45,7 @@ Menjadi seseorang yang percaya pada ilmu pengetahuan di negeri ini berarti siap 
 
 Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sistem yang menjauhkan masyarakat dari sikap kritis. Feodalisme menempatkan kuasa dan pengetahuan di tangan segelintir orang, sementara rakyat hanya bisa tunduk, pasif, dan mudah dikendalikan.
 
-<div style="display: flex; align-items: center; gap: 15px; flex-direction: row;">
+<div style="display: flex; align-items: center; gap: 5px; flex-direction: row;">
   <img src="/img/sst.png" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 50%;">
   <div style="text-align: center;">
     <h5 style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">Normalisasi Kebodohan</h5>
@@ -65,7 +65,7 @@ Jika kita terus pasif dan ``"iya-iya saja"``, maka masyarakat yang terjebak dala
 
 ## Menuju Kebenaran
 
->*Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.*
+>Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 >
 ```vue
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=34832597112243536" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
