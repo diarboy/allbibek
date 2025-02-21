@@ -106,7 +106,7 @@
   .responsive-flex {
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 25px;
     flex-direction: row;
   }
   
@@ -124,5 +124,6 @@
   @media (max-width: 768px) {
     .responsive-flex {
       flex-direction: column;
+			gap: 15px;
     }
   }
