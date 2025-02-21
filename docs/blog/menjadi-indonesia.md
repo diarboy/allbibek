@@ -20,7 +20,7 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
   <img src="/img/sst.jpg" alt="Ilustrasi" style="width: 150px; height: auto; border-radius: 30%;">
   <div style="text-align: left;">
     <h6 style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;">Yang ironisnya lagi</h6>
-    <p style="font-size: 1em;">Banyak orang setuju bahwa <mark>Pendidikan itu penting<\mark>. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
+    <p style="font-size: 1em;">Banyak orang setuju bahwa <mark>Pendidikan itu penting</mark>. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
   </div>
 </div>
 
