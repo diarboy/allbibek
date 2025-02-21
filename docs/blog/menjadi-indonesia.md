@@ -55,6 +55,8 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
 
 ## Revolusi Berpikir
 
+<PinterestEmbed pinUrl="https://www.pinterest.com/pin/358810295291571971/" />
+
 Meskipun telah ~~merdeka~~ dari penjajahan fisik, kita masih terjajah dalam cara berpikir. Kita masih tunduk pada otoritas tanpa mempertanyakan kebenarannya. Kita masih gemar mengandalkan <kbd>"orang pintar"</kbd>.
 
 Mungkin dukun sudah sedikit, tapi mereka menjelma jadi influencer, abang-abangan, penjual agama, atau semua yang menjual solusi instan untuk menyelesaikan masalah yang bisa diselesaikan dengan skeptisme, logika, dan ilmu pengetahuan.
@@ -67,15 +69,6 @@ Jika kita terus pasif dan ``"iya-iya saja"``, maka masyarakat yang terjebak dala
 
 >Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 >
-```vue
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=34832597112243536" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
-```
-
-```
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295291571971" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
-```
 
 <PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" />
-<PinterestEmbed pinUrl="https://www.pinterest.com/pin/12345678901234567/" />
-<PinterestEmbed pinUrl="https://www.pinterest.com/pin/98765432109876543/" />
 

@@ -2,7 +2,7 @@
 import { onMounted } from "vue";
 
 const props = defineProps({
-  pinUrl: String,
+  pinUrl: String
 });
 
 onMounted(() => {
