@@ -123,10 +123,6 @@
   @media (max-width: 768px) {
     .responsive-flex {
       flex-direction: column;
-	    gap: 50px;
+	    gap: 30px;
     }
-		.responsive-flex img {
-			width: 100%;
-			height: auto;
-		}
   }
