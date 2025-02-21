@@ -1,6 +1,29 @@
 @import url('https://api.fontshare.com/v2/css?f=manrope&display=swap');
 /* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap'); */
 
+.quote-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.quote-container blockquote {
+  flex: 1;
+  font-size: 16px;
+  padding: 12px;
+  border-left: 4px solid #ccc;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+
+.quote-container iframe {
+  flex-shrink: 0;
+  width: 345px;  /* Sesuai ukuran default Pinterest */
+  height: 445px;
+  border-radius: 8px;
+}
+
 .responsive-flex {
   display: flex;
   align-items: center;
