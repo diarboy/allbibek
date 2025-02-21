@@ -64,11 +64,12 @@ Jika kita terus pasif dan ``"iya-iya saja"``, maka masyarakat yang terjebak dala
 Tapi haruskah kita menyerah? Tidak. Revolusi berpikir adalah awal dari revolusi yang sesungguhnya. Kita harus terus mempertanyakan, meski lelah. Kita harus terus mencari kebenaran, meski sedikit kesepian.
 
 ## Menuju Kebenaran
-/<iframe src="https://assets.pinterest.com/ext/embed.html?id=34832597112243536" height="445" width="345" frameborder="0" scrolling="no" ></iframe>/
+```<iframe src="https://assets.pinterest.com/ext/embed.html?id=34832597112243536" height="445" width="345" frameborder="0" scrolling="no" ></iframe>```
 
 >Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 >
-/<iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295291571971" height="445" width="345" frameborder="0" scrolling="no" ></iframe>/
+<pre>
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295291571971" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+</pre>
 
-/<a data-pin-do="embedPin" href="https://www.pinterest.com/pin/34832597112243536/"></a>/
-/<script async defer src="//assets.pinterest.com/js/pinit.js"></script>/
+```<a data-pin-do="embedPin" href="https://www.pinterest.com/pin/34832597112243536/"></a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script>```
