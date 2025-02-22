@@ -13,5 +13,7 @@ export default {
     app.component('FAQ', FAQ)
     app.component('PinterestEmbed', PinterestEmbed)
     app.component('PinterestIframe', PinterestIframe)
+    app.component('GalleryMasonry', GalleryMasonry)  // Daftarkan GalleryMasonry
+    app.component('GalleryCarousel', GalleryCarousel)  // Daftarkan GalleryCarousel
   }
 }
