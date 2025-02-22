@@ -1,52 +1,61 @@
 {
-  "hash": "1482c28b",
+  "hash": "9ba8d6c0",
   "configHash": "58aa3620",
-  "lockfileHash": "3babea8c",
-  "browserHash": "cc6267dd",
+  "lockfileHash": "674b9049",
+  "browserHash": "95067c87",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "ae6e29d2",
+      "fileHash": "1a6148f7",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "ea9d5efa",
+      "fileHash": "4e581bde",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "9d8791fb",
+      "fileHash": "21aaa48c",
       "needsInterop": false
     },
     "vue-easy-lightbox": {
       "src": "../../../../node_modules/vue-easy-lightbox/dist/vue-easy-lightbox.esm.min.js",
       "file": "vue-easy-lightbox.js",
-      "fileHash": "91ed74de",
+      "fileHash": "f2366294",
       "needsInterop": false
     },
     "swiper/vue": {
       "src": "../../../../node_modules/swiper/swiper-vue.mjs",
       "file": "swiper_vue.js",
-      "fileHash": "77e78b6b",
+      "fileHash": "6f6c7529",
       "needsInterop": false
     },
     "swiper/modules": {
       "src": "../../../../node_modules/swiper/modules/index.mjs",
       "file": "swiper_modules.js",
-      "fileHash": "c6b6f105",
+      "fileHash": "1d01525c",
       "needsInterop": false
+    },
+    "aos": {
+      "src": "../../../../node_modules/aos/dist/aos.js",
+      "file": "aos.js",
+      "fileHash": "3ea1f21a",
+      "needsInterop": true
     }
   },
   "chunks": {
+    "chunk-LW4I4DCF": {
+      "file": "chunk-LW4I4DCF.js"
+    },
     "chunk-V7NREL6N": {
       "file": "chunk-V7NREL6N.js"
     },
-    "chunk-LW4I4DCF": {
-      "file": "chunk-LW4I4DCF.js"
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
     }
   }
 }

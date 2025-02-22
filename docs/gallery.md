@@ -10,21 +10,28 @@ hero:
     src: /hero.png
     alt: gallery
   actions:
-    - text: See My Portfolio
+    - theme: sponsor
+      text: See My Portfolio
       link: /guide
-    - text: Hire Me
+    - theme: brand
+      text: Hire Me
       link: /contact
 features:
   - icon: 🖼️
     title: High-Quality Images
-    description: Curated selection of high-resolution images.
+    details: Curated selection of high-resolution images.
   - icon: 🌎
     title: Global Inspirations
-    description: Works inspired by diverse cultures and landscapes.
+    details: Works inspired by diverse cultures and landscapes.
   - icon: 📱
     title: Optimized for Mobile
-    description: Seamlessly browse on any device.
+    details: Seamlessly browse on any device.
 ---
+
+<section>
+  <h2>Welcome to My Gallery</h2>
+  <p>Enjoy a collection of my best works.</p>
+</section>
 
 <section class="gallery-content">
   <h2>Explore the Collection</h2>
@@ -36,7 +43,9 @@ features:
 </section>
 
 <style>
-  
+h2, p {
+  text-align: center;
+}
 @media (max-width: 768px) {
   .gallery-hero { height: 40vh; }
   .gallery-hero h1 { font-size: 2rem; }

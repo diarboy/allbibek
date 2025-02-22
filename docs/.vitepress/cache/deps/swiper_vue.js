@@ -1,4 +1,17 @@
 import {
+  computed,
+  h,
+  inject,
+  nextTick,
+  onBeforeUnmount,
+  onBeforeUpdate,
+  onMounted,
+  onUpdated,
+  provide,
+  ref,
+  watch
+} from "./chunk-LW4I4DCF.js";
+import {
   animateCSSModeScroll,
   createElement,
   deleteProps,
@@ -14,24 +27,12 @@ import {
   getDocument,
   getTranslate,
   getWindow,
-  nextTick,
+  nextTick as nextTick2,
   now,
   setCSSProperty,
   showWarning
 } from "./chunk-V7NREL6N.js";
-import {
-  computed,
-  h,
-  inject,
-  nextTick as nextTick2,
-  onBeforeUnmount,
-  onBeforeUpdate,
-  onMounted,
-  onUpdated,
-  provide,
-  ref,
-  watch
-} from "./chunk-LW4I4DCF.js";
+import "./chunk-BUSYA2B4.js";
 
 // node_modules/swiper/shared/swiper-core.mjs
 var support;
@@ -1721,7 +1722,7 @@ function slideToClickedSlide() {
       if (slideToIndex < swiper.loopedSlides - slidesPerView / 2 || slideToIndex > swiper.slides.length - swiper.loopedSlides + slidesPerView / 2) {
         swiper.loopFix();
         slideToIndex = swiper.getSlideIndex(elementChildren(slidesEl, `${slideSelector}[data-swiper-slide-index="${realIndex}"]`)[0]);
-        nextTick(() => {
+        nextTick2(() => {
           swiper.slideTo(slideToIndex);
         });
       } else {
@@ -1730,7 +1731,7 @@ function slideToClickedSlide() {
     } else if (slideToIndex > swiper.slides.length - slidesPerView) {
       swiper.loopFix();
       slideToIndex = swiper.getSlideIndex(elementChildren(slidesEl, `${slideSelector}[data-swiper-slide-index="${realIndex}"]`)[0]);
-      nextTick(() => {
+      nextTick2(() => {
         swiper.slideTo(slideToIndex);
       });
     } else {
@@ -2490,7 +2491,7 @@ function onTouchEnd(event) {
     }
   }
   data.lastClickTime = now();
-  nextTick(() => {
+  nextTick2(() => {
     if (!swiper.destroyed) swiper.allowClick = true;
   });
   if (!data.isTouched || !data.isMoved || !swiper.swipeDirection || touches.diff === 0 && !data.loopSwapReset || data.currentTranslate === data.startTranslate && !data.loopSwapReset) {
@@ -4820,7 +4821,7 @@ var Swiper2 = {
     });
     provide("swiper", swiperRef);
     watch(virtualData, () => {
-      nextTick2(() => {
+      nextTick(() => {
         updateOnVirtualData(swiperRef.value);
       });
     });

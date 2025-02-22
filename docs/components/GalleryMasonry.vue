@@ -118,11 +118,11 @@ const isLargeColumn = (index) => {
 
 @media (max-width: 768px) {
   .masonry-grid {
-    grid-template-columns: repeat(2, 1fr); /* Responsif jadi 2 kolom */
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .masonry-item.large {
-    grid-row: span 1; /* Tidak ada kolom tinggi di mobile */
+    grid-row: span 1;
   }
   
 }

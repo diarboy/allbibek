@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="gallery-title">Image Carousel</h2>
+    <h2 class="gallery-title">Explore More Collections </h2>
     <div class="carousel">
       <!-- Tombol Prev -->
       <button @click="prev" class="carousel-btn prev">❮</button>
@@ -98,7 +98,7 @@ const closeLightbox = () => {
   justify-content: center;
   position: relative;
   width: fit-content;
-  max-width: 700px;
+  max-width: 1200px;
   margin: auto;
 }
 
@@ -111,7 +111,7 @@ const closeLightbox = () => {
 }
 
 .slide {
-  width: 400px; /* Ukuran default */
+  width: 512px; /* Ukuran default 300px*/
   overflow: hidden;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
@@ -124,7 +124,7 @@ const closeLightbox = () => {
 }
 
 .swiper-slide-active {
-  transform: scale(1.2);
+  transform: scale(1);
   opacity: 1;
 }
 
@@ -183,22 +183,29 @@ const closeLightbox = () => {
 
   .carousel-container img {
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: contain;
   }
 
   .slide {
-    width: 260px;
+    width: 330px;
   }
   
   .carousel-btn {
     width: 32px;
     height: 32px;
-    padding: 0;
+    padding: 0px;
     font-size: 1rem;
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+  .prev {
+    left: 40px;
+  }
+
+  .next {
+    right: 40px;
   }
 }
 
