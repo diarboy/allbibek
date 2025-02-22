@@ -10,15 +10,15 @@ Explore some of my latest projects, designs, and creative works.
 
 <div class="gallery-grid">
   <div class="gallery-item">
-    <img src="/gallery/image1.jpg" alt="Project 1">
+    <!--img src="/gallery/image1.jpg" alt="Project 1"-->
     <p>Project 1 - Web Design</p>
   </div>
   <div class="gallery-item">
-    <img src="/gallery/image2.jpg" alt="Project 2">
+    <!--img src="/gallery/image2.jpg" alt="Project 2"-->
     <p>Project 2 - UI/UX Concept</p>
   </div>
   <div class="gallery-item">
-    <img src="/gallery/image3.jpg" alt="Project 3">
+    <!--img src="/gallery/image3.jpg" alt="Project 3"-->
     <p>Project 3 - Branding & Identity</p>
   </div>
 </div>
