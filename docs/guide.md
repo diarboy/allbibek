@@ -131,13 +131,11 @@ Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy.
 
 When enabled, you can write math equations:
 
-```latex
 $$
 f(x) = \int_{-\infty}^\infty
     \hat f(\xi)\,e^{2 \pi i \xi x}
     \,d\xi
 $$
-```
 
 ## <span class="subtitle">Final Thoughts</span>
 
