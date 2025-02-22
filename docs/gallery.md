@@ -29,9 +29,9 @@ features:
     <h1>{{ $frontmatter.hero.title }}</h1>
     <p>{{ $frontmatter.hero.subtitle }}</p>
     <div class="cta-buttons">
-      <a class="btn btn-primary" :href="$frontmatter.hero.cta[0].link">{{ $frontmatter.hero.cta[0].text }}</a>
-      <a class="btn btn-secondary" :href="$frontmatter.hero.cta[1].link">{{ $frontmatter.hero.cta[1].text }}</a>
-    </div>
+  <router-link class="btn btn-primary" :to="$frontmatter.hero.cta[0].link">{{ $frontmatter.hero.cta[0].text }}</router-link>
+  <router-link class="btn btn-secondary" :to="$frontmatter.hero.cta[1].link">{{ $frontmatter.hero.cta[1].text }}</router-link>
+</div>
   </div>
 </div>
 
