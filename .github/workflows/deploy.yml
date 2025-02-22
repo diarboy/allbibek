@@ -25,6 +25,7 @@ jobs:
           node-version: 18
           cache: npm
       - run: npm ci
+      - run: npm install vue-easy-lightbox
       - name: Build
         run: npm run docs:build
       - uses: actions/configure-pages@v4
