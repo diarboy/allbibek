@@ -41,6 +41,7 @@ features:
         :link="action.link"
         :theme="action.theme"
       />
+    </div>
   </div>
 </div>
 
