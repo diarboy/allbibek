@@ -46,9 +46,8 @@ const images = ref([
   { src: "https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg", alt: "Project 20" },
   { src: "https://framerusercontent.com/images/67h2DVc4IdYXb81Q7E8JaRwp7A.jpg?scale-down-to=512", alt: "Project 21" },
   { src: "https://framerusercontent.com/images/zFN6pFb5EpznGaqPUCHYW7GkngU.jpg?scale-down-to=512", alt: "Project 22" },
-  { src: "https://framerusercontent.com/images/G3XVWhCFlN7SvjG805tkppyWQLI.jpg?scale-down-to=512", alt: "Project 23" },
-  { src: "https://framerusercontent.com/images/G3XVWhCFlN7SvjG805tkppyWQLI.jpg?scale-down-to=512", alt: "Project 24" },
-  { src: "https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg", alt: "Project 25" },
+  { src: "https://framerusercontent.com/images/67h2DVc4IdYXb81Q7E8JaRwp7A.jpg?scale-down-to=512", alt: "Project 23" },
+  { src: "https://framerusercontent.com/images/zFN6pFb5EpznGaqPUCHYW7GkngU.jpg?scale-down-to=512", alt: "Project 24" },
 ]);
 
 
@@ -77,13 +76,10 @@ const isLargeColumn = (index) => {
   grid-auto-rows: 150px; /* Dasar tinggi tiap baris */
   gap: 12px;
   padding: 10px;
-  
 }
 
 .masonry-item {
   display: flex;
-  overflow: hidden;
-  border-radius: 10px;
 }
 
 .masonry-item img {
@@ -91,29 +87,16 @@ const isLargeColumn = (index) => {
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
-  filter: brightness(0.95);
-  transform-origin: center;
+  transition: transform 0.3s ease-in-out;
   cursor: pointer;
-
-  will-change: transform, filter;
-
-  transition: transform 1s cubic-bezier(0.3, 0, 0.2, 1), 
-              filter 1s cubic-bezier(0.3, 0, 0.2, 1);
-
-}
-
-.masonry-item img:hover {
-  transform: scale(1.03);
-  filter: brightness(1);
 }
 
 .masonry-item.large {
   grid-row: span 2; /* Kolom ke-2 dan ke-4 lebih tinggi */
 }
 
-.masonry-item:nth-child(24) img {
-  height: 150px !important; /* Paksa tinggi gambar Project 24 */
-  object-fit: cover;
+.masonry-item img:hover {
+  transform: scale(1.05);
 }
 
 @media (max-width: 768px) {
@@ -124,6 +107,5 @@ const isLargeColumn = (index) => {
   .masonry-item.large {
     grid-row: span 1; /* Tidak ada kolom tinggi di mobile */
   }
-  
 }
 </style>
