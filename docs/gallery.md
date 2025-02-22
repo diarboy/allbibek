@@ -30,10 +30,10 @@ features:
   <div class="overlay">
     <h1>{{ $frontmatter.hero.title }}</h1>
     <p>{{ $frontmatter.hero.subtitle }}</p>
-    <div class="cta-buttons">
+   <!-- <div class="cta-buttons">
   <router-link class="btn btn-primary" :to="$frontmatter.hero.cta[0].link">{{ $frontmatter.hero.cta[0].text }}</router-link>
   <router-link class="btn btn-secondary" :to="$frontmatter.hero.cta[1].link">{{ $frontmatter.hero.cta[1].text }}</router-link>
-</div>
+</div> -->
     <VPButton 
         v-for="(action, index) in $frontmatter.hero.actions" 
         :key="index"
