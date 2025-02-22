@@ -6,11 +6,13 @@ hero:
   background: "https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg"
   title: "Discover My Visual Journey"
   subtitle: "A collection of my best works, from photography to digital creations."
-  cta:
+  action:
     - text: "See My Portfolio"
       link: "/contact"
+      theme: brand
     - text: "Hire Me"
       link: "/contact"
+      theme: alt
 features:
   - icon: 🖼️
     title: "High-Quality Images"
@@ -32,6 +34,13 @@ features:
   <router-link class="btn btn-primary" :to="$frontmatter.hero.cta[0].link">{{ $frontmatter.hero.cta[0].text }}</router-link>
   <router-link class="btn btn-secondary" :to="$frontmatter.hero.cta[1].link">{{ $frontmatter.hero.cta[1].text }}</router-link>
 </div>
+    <VPButton 
+        v-for="(action, index) in $frontmatter.hero.actions" 
+        :key="index"
+        :text="action.text" 
+        :link="action.link"
+        :theme="action.theme"
+      />
   </div>
 </div>
 
