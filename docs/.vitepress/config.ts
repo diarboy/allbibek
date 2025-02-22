@@ -27,6 +27,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide' },
       { text: 'Contact', link: '/contact' },
+      { text: 'Gallery', link: '/gallery' },
       {
         text: 'Blog/Resources', 
         items: [
