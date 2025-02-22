@@ -8,9 +8,9 @@ hero:
   subtitle: "A collection of my best works, from photography to digital creations."
   cta:
     - text: "See My Portfolio"
-      link: "/"
+      link: /
     - text: "Hire Me"
-      link: "/contact"
+      link: /contact
 features:
   - icon: 🖼️
     title: "High-Quality Images"
