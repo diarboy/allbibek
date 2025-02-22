@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Gallery"
 description: "An immersive visual experience showcasing my creative works."
 hero:
