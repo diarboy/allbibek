@@ -15,7 +15,6 @@ import {
   watch,
   withModifiers
 } from "./chunk-LW4I4DCF.js";
-import "./chunk-BUSYA2B4.js";
 
 // node_modules/vue-easy-lightbox/dist/vue-easy-lightbox.esm.min.js
 function m(e, t) {
