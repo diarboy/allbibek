@@ -23,11 +23,11 @@ import { ref } from "vue";
 import VueEasyLightbox from "vue-easy-lightbox";
 
 const images = ref([
-  { src: "/gallery/image1.jpg", alt: "Project 1" },
-  { src: "/gallery/image2.jpg", alt: "Project 2" },
-  { src: "/gallery/image3.jpg", alt: "Project 3" },
-  { src: "/gallery/image4.jpg", alt: "Project 4" },
-  { src: "/gallery/image5.jpg", alt: "Project 5" }
+  { src: "https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg", alt: "Project 1" },
+  { src: "https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg", alt: "Project 2" },
+  { src: "https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg", alt: "Project 3" },
+  { src: "https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg", alt: "Project 4" },
+  { src: "https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg", alt: "Project 5" }
 ]);
 
 const currentIndex = ref(0);
