@@ -29,8 +29,12 @@ features:
 ---
 
 <section>
-  <h2>Welcome to My Gallery</h2>
-  <p>Enjoy a collection of my best works.</p>
+<div class="gallery-content">
+  
+## Welcome to My Gallery
+Enjoy a collection of my best works.
+
+</div>
 </section>
 
 <section class="gallery-content">
@@ -43,9 +47,12 @@ features:
 </section>
 
 <style>
-h2, p {
-  text-align: center;
-}
+
+  .gallery-content h2,
+  .gallery-content p {
+    text-align: center;
+  }
+  
 @media (max-width: 768px) {
   .gallery-hero { height: 40vh; }
   .gallery-hero h1 { font-size: 2rem; }
