@@ -4,10 +4,10 @@ title: "Gallery"
 description: An immersive visual experience showcasing my creative works.
 hero:
   name: 
-  text: Discover My Visual Journey
-  tagline: "A collection of my best works, from photography to digital creations."
+  text: Discover My Visual Journey 
+  tagline: A collection of my best works, from photography to digital creations. 
   image:
-    src: https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg
+    src: /hero.png
     alt: gallery
   actions:
     - text: See My Portfolio
@@ -36,7 +36,7 @@ features:
 </section>
 
 <style>
-/* RESPONSIVE DESIGN */
+  
 @media (max-width: 768px) {
   .gallery-hero { height: 40vh; }
   .gallery-hero h1 { font-size: 2rem; }

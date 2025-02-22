@@ -14,7 +14,7 @@
   .VPImage.image-src {
     max-width: unset;
     max-height: unset;
-    width: 540px; /* Sesuaikan ukuran image */
+    width: 540px;
     height: auto;
   }
   
