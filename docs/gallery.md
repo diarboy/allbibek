@@ -9,7 +9,6 @@ hero:
   action:
     - text: "See My Portfolio"
       link: "/guide"
-    
     - text: "Hire Me"
       link: "/contact"
 features:
