@@ -6,13 +6,12 @@ hero:
   background: "https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg"
   title: "Discover My Visual Journey"
   subtitle: "A collection of my best works, from photography to digital creations."
-  actions:
+  action:
     - text: "See My Portfolio"
       link: "/guide"
-      theme: brand
+    
     - text: "Hire Me"
       link: "/contact"
-      theme: alt
 features:
   - icon: 🖼️
     title: "High-Quality Images"
