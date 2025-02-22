@@ -35,6 +35,10 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist
+
+      - name: List files in pages artifact
+        run: ls -R ${{ steps.upload-pages-artifact.outputs.path }}
+
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
