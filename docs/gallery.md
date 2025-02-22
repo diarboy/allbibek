@@ -1,26 +1,26 @@
 ---
-layout: page
+layout: home
 title: "Gallery"
 description: "An immersive visual experience showcasing my creative works."
 hero:
-  background: "/https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg"
-  title: "Immersive Gallery"
-  subtitle: "Dive into a world of creativity and innovation."
+  background: "https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg"
+  title: "Discover My Visual Journey"
+  subtitle: "A collection of my best works, from photography to digital creations."
   cta:
-    - text: "Explore Portfolio"
-      link: "/contact"
-    - text: "Get in Touch"
+    - text: "See My Portfolio"
+      link: "/"
+    - text: "Hire Me"
       link: "/contact"
 features:
-  - icon: 🎨
-    title: "Art & Design"
-    description: "Stunning visuals and innovative design."
-  - icon: 📷
-    title: "Photography"
-    description: "Capturing moments from around the world."
-  - icon: 💻
-    title: "Digital Creations"
-    description: "Modern and interactive digital art."
+  - icon: 🖼️
+    title: "High-Quality Images"
+    description: "Curated selection of high-resolution images."
+  - icon: 🌎
+    title: "Global Inspirations"
+    description: "Works inspired by diverse cultures and landscapes."
+  - icon: 📱
+    title: "Optimized for Mobile"
+    description: "Seamlessly browse on any device."
 ---
 
 <!-- HERO SECTION -->
@@ -61,14 +61,14 @@ features:
 .gallery-hero {
   position: relative;
   background: url("https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg") center/cover no-repeat;
-  height: 60vh;
+  height: 55vh;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
 }
 .gallery-hero .overlay {
-  background: rgba(0,0,0,0.55);
+  background: rgba(0,0,0,0.5);
   padding: 2rem;
   border-radius: 8px;
   max-width: 90%;
@@ -91,18 +91,10 @@ features:
   color: #fff;
   transition: background 0.3s ease;
 }
-.btn-primary {
-  background: #007bff;
-}
-.btn-primary:hover {
-  background: #0056b3;
-}
-.btn-secondary {
-  background: #6c757d;
-}
-.btn-secondary:hover {
-  background: #495057;
-}
+.btn-primary { background: #007bff; }
+.btn-primary:hover { background: #0056b3; }
+.btn-secondary { background: #6c757d; }
+.btn-secondary:hover { background: #495057; }
 
 /* FEATURES SECTION */
 .gallery-features {
@@ -139,21 +131,10 @@ features:
 
 /* RESPONSIVE DESIGN */
 @media (max-width: 768px) {
-  .gallery-hero {
-    height: 40vh;
-  }
-  .gallery-hero h1 {
-    font-size: 2rem;
-  }
-  .gallery-hero p {
-    font-size: 1rem;
-  }
-  .features-container {
-    grid-template-columns: 1fr;
-  }
-  .feature-item {
-    max-width: 90%;
-    margin: 0 auto;
-  }
+  .gallery-hero { height: 40vh; }
+  .gallery-hero h1 { font-size: 2rem; }
+  .gallery-hero p { font-size: 1rem; }
+  .features-container { grid-template-columns: 1fr; }
+  .feature-item { max-width: 90%; margin: 0 auto; }
 }
 </style>
