@@ -8,7 +8,7 @@ hero:
   subtitle: "A collection of my best works, from photography to digital creations."
   cta:
     - text: "See My Portfolio"
-      link: "/Guide"
+      link: "/contact"
     - text: "Hire Me"
       link: "/contact"
 features:
