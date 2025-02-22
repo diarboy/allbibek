@@ -14,7 +14,7 @@
   .VPImage.image-src {
     max-width: unset;
     max-height: unset;
-    width: 540px; /* Sesuaikan ukuran image */
+    width: 540px;
     height: auto;
   }
   
@@ -106,14 +106,14 @@
   .responsive-flex {
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 25px;
     flex-direction: row;
   }
   
   .responsive-flex img {
     width: 200px;
     height: auto;
-    border-radius: 50%;
+		border-radius: 50%;
   }
   
   .responsive-flex div {
@@ -124,5 +124,6 @@
   @media (max-width: 768px) {
     .responsive-flex {
       flex-direction: column;
+	    gap: 50px;
     }
   }
