@@ -6,7 +6,7 @@ hero:
   background: "https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg"
   title: "Discover My Visual Journey"
   subtitle: "A collection of my best works, from photography to digital creations."
-  action:
+  actions:
     - text: "See My Portfolio"
       link: "/contact"
       theme: brand
