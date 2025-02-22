@@ -8,7 +8,7 @@ hero:
   subtitle: "A collection of my best works, from photography to digital creations."
   actions:
     - text: "See My Portfolio"
-      link: "/contact"
+      link: "/guide"
       theme: brand
     - text: "Hire Me"
       link: "/contact"
@@ -31,17 +31,16 @@ features:
     <h1>{{ $frontmatter.hero.title }}</h1>
     <p>{{ $frontmatter.hero.subtitle }}</p>
   <div class="cta-buttons">
-  <!--router-link class="btn btn-primary" :to="$frontmatter.hero.cta[0].link">{{ $frontmatter.hero.cta[0].text }}</router-link>
+  router-link class="btn btn-primary" :to="$frontmatter.hero.cta[0].link">{{ $frontmatter.hero.cta[0].text }}</router-link>
   <router-link class="btn btn-secondary" :to="$frontmatter.hero.cta[1].link">{{ $frontmatter.hero.cta[1].text }}</router-link>
-</div> -->
-    <VPButton 
+</div>
+    <!--VPButton 
         v-for="(action, index) in $frontmatter.hero.actions" 
         :key="index"
         :text="action.text" 
         :link="action.link"
         :theme="action.theme"
-      />
-    </div>
+      /-->
   </div>
 </div>
 
