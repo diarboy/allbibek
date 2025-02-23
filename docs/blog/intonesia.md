@@ -1,4 +1,4 @@
-# <span class="title">Survival of The Shittest</span>
+# Survival of The Shittest
 
 <div class="responsive-flex">
   <img src="/img/sst.png" alt="Ilustrasi">
@@ -81,3 +81,5 @@ Jika kita terus pasif dan `iya-iya saja`, maka masyarakat yang terjebak dalam lo
 >Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 >
 <PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" />
+
+<PinterestIframe pinUrl="https://www.pinterest.com/pin/34832597112243536/" pinSize="medium" style="margin-top: 20px;" />  

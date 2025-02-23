@@ -1,8 +1,8 @@
-# <span class="title">Web Development Tutorials</span>
+# Web Development Tutorials
 
 Welcome to our comprehensive web development tutorials! Here you'll find practical guides and best practices for modern web development.
 
-## <span class="subtitle">JavaScript Fundamentals</span>
+## JavaScript Fundamentals
 
 ### Asynchronous Programming
 
@@ -40,7 +40,7 @@ const user = {
 const zipCode = user?.address?.zipCode; // undefined instead of error
 ```
 
-## <span class="subtitle">React Best Practices</span>
+## React Best Practices
 
 ### Custom Hooks
 
@@ -70,7 +70,7 @@ function useLocalStorage(key, initialValue) {
 }
 ```
 
-## <span class="subtitle">Vue.js Tips and Tricks</span>
+## Vue.js Tips and Tricks
 
 ### Composition API
 
@@ -98,7 +98,7 @@ onMounted(() => {
 </template>
 ```
 
-## <span class="subtitle">Performance Optimization</span>
+## Performance Optimization
 
 ### Code Splitting
 
@@ -136,7 +136,7 @@ export default {
 >
 ```
 
-## <span class="subtitle">Security Best Practices</span>
+## Security Best Practices
 
 ### XSS Prevention
 
@@ -163,7 +163,7 @@ Implement CSRF tokens in your forms:
 </form>
 ```
 
-## <span class="subtitle">Stay Updated</span>
+## Stay Updated
 
 - Follow our [RSS feed](#) for the latest tutorials
 - Join our [Discord community](#) for discussions

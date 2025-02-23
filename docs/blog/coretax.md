@@ -1,8 +1,8 @@
-# <span class="title">Migrasi Layanan Coretax DJP</span>
+# Migrasi Layanan Coretax DJP
 
 Mulai Januari 2025, Direktorat Jenderal Pajak (DJP) akan menerapkan Sistem Inti Administrasi Perpajakan (SIAP) yang dikenal sebagai **Coretax**. Sistem ini dirancang untuk menyederhanakan dan mengintegrasikan berbagai layanan perpajakan dalam satu portal tunggal. Berikut adalah perubahan penting yang akan terjadi:
 
-## <span class="title">Perubahan Penting</span>
+## Perubahan Penting
 
 ### 1. Integrasi Layanan Perpajakan
 Saat ini, layanan seperti e-Registration, e-Filing, dan e-Billing beroperasi secara terpisah. Dengan Coretax, semua layanan tersebut akan digabungkan dalam satu aplikasi, memudahkan wajib pajak dalam mengakses dan mengelola kewajiban perpajakan mereka.
@@ -31,7 +31,7 @@ Fitur ini menampilkan:
 - Riwayat transaksi.
 - Kewajiban perpajakan secara komprehensif.
 
-## <span class="title">Manfaat Coretax</span>
+## Manfaat Coretax
 
 ::: tip Kenapa Coretax Penting?
 Implementasi Coretax diharapkan:
@@ -40,7 +40,7 @@ Implementasi Coretax diharapkan:
 - Mempermudah wajib pajak dalam memenuhi kewajiban mereka.
 :::
 
-## <span class="title">Contoh Perhitungan PPN 12%</span>
+## Contoh Perhitungan PPN 12%
 Misalkan Anda memiliki transaksi senilai Rp10.000.000. Berikut adalah perhitungan PPN dengan tarif baru:
 
 ```math
@@ -52,7 +52,7 @@ Total Harga = Rp10.000.000 + Rp1.200.000 = Rp11.200.000
 **Catatan:** Perubahan tarif PPN menjadi 12% ini berlaku bersamaan dengan implementasi Coretax.
 :::
 
-## <span class="title">Tabel Perbandingan Layanan Lama dan Baru</span>
+## Tabel Perbandingan Layanan Lama dan Baru
 
 | Fitur                      | Sebelum Coretax                 | Setelah Coretax                 |
 |----------------------------|----------------------------------|----------------------------------|
@@ -61,12 +61,12 @@ Total Harga = Rp10.000.000 + Rp1.200.000 = Rp11.200.000
 | **Pembayaran Pajak**       | Terpisah (e-Billing)            | Fitur deposit dalam satu portal |
 | **Pengelolaan Akun**       | Terbatas                        | TAM untuk semua informasi       |
 
-## <span class="title">Penting!</span>
+## Penting!
 > "Dengan Coretax, Direktorat Jenderal Pajak membawa revolusi dalam administrasi perpajakan, menjadikan semuanya lebih sederhana, efisien, dan transparan."
 
-## <span class="title">Ilustrasi</span>
+## Ilustrasi
 ![Integrasi Coretax](https://www.shutterstock.com/image-photo/bontang-kalimantan-timur-indonesia-january-260nw-2568269819.jpg)
 
-## <span class="title">Final Thoughts</span>
+## Final Thoughts
 
 Dengan Coretax, Direktorat Jenderal Pajak memastikan bahwa layanan perpajakan menjadi lebih ramah bagi wajib pajak. Mari persiapkan diri Anda untuk menyambut sistem baru ini!

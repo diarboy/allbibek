@@ -76,23 +76,23 @@
   div[class*="vp-doc"] h4, 
   div[class*="vp-doc"] h5, 
   div[class*="vp-doc"] h6 {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
     font-weight: light;
   }
 
-  h1, div[class*="vp-doc"] h1 {
+  /* h1, div[class*="vp-doc"] h1 {
     background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-  }
+  } */
 
-  h2, div[class*="vp-doc"] h2 {
+  /* h2, div[class*="vp-doc"] h2 {
     background: -webkit-linear-gradient(120deg, #ffab91, #FF70A6, #667eea);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-  }
+  } */
 
   .title {
     background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);

@@ -1,8 +1,12 @@
-# <span class="title">Welcome to Allbibek</span>
+---
+layout: mylayout
+---
+
+# Welcome to Allbibek
 
 Hi there 👋 Welcome to our documentation site! Let's explore some of the amazing features that VitePress offers.
 
-## <span class="subtitle">Getting Started</span>
+## Getting Started
 
 VitePress is a Static Site Generator (SSG) designed to help you create beautiful documentation sites with minimal effort. Here's why it's awesome:
 
@@ -11,7 +15,7 @@ VitePress is a Static Site Generator (SSG) designed to help you create beautiful
 - 🎨 **Customizable** - Easy to theme and extend
 - 🔧 **Developer Friendly** - Great DX out of the box
 
-## <span class="subtitle">Markdown Features</span>
+## Markdown Features
 
 ### Code Blocks
 
@@ -54,7 +58,7 @@ This is a danger zone - perfect for critical warnings.
 Here's some hidden content that users can reveal by clicking!
 :::
 
-## <span class="subtitle">Using Vue in Markdown</span>
+## Using Vue in Markdown
 
 VitePress allows you to use Vue directly in your Markdown files. Here's a simple counter example:
 
@@ -70,7 +74,7 @@ const count = ref(0)
 </template>
 ```
 
-## <span class="subtitle">Emoji Support</span>
+## Emoji Support
 
 VitePress comes with emoji support! 🎉
 
@@ -79,7 +83,7 @@ VitePress comes with emoji support! 🎉
 - 🎨 Beautiful themes
 - 🔧 Easy configuration
 
-## <span class="subtitle">Lists</span>
+## Lists
 
 ### Unordered Lists
 
@@ -97,23 +101,23 @@ VitePress comes with emoji support! 🎉
    2. Sub-step two
 3. Third step
 
-## <span class="subtitle">Links and References</span>
+## Links and References
 
 - [VitePress Documentation](https://vitepress.dev/)
 - [Vue.js](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
 
-## <span class="subtitle">Images</span>
+## Images
 
 You can add images like this:
 
 ![VitePress Logo](https://vitepress.dev/vitepress-logo-large.webp)
 
-## <span class="subtitle">Keyboard Keys</span>
+## Keyboard Keys
 
 Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy.
 
-## <span class="subtitle">Text Formatting</span>
+## Text Formatting
 
 - **Bold text** for emphasis
 - *Italic text* for slight emphasis
@@ -121,13 +125,13 @@ Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy.
 - `inline code` for code references
 - <mark>Highlighted text</mark> for important points
 
-## <span class="subtitle">Quotes</span>
+## Quotes
 
 > "VitePress is amazing for documentation sites!"
 > 
 > — Happy Developer
 
-## <span class="subtitle">Math Equations</span>
+## Math Equations
 
 ```
 $$
@@ -144,6 +148,6 @@ f(x) = \int_{-\infty}^\infty
     \,d\xi
 $$
 
-## <span class="subtitle">Final Thoughts</span>
+## Final Thoughts
 
 This page demonstrates many of VitePress's features, but there's even more to explore! Check out the [official documentation](https://vitepress.dev/) to learn about all the possibilities.

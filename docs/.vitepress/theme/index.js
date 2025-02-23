@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
+import MyLayout from './mylayout.vue'
 import Layout from '../../components/Layout.vue'
 import FAQ from '../../components/FAQ.vue'
 import PinterestEmbed from "../../components/PinterestEmbed.vue";
@@ -8,7 +9,11 @@ import GalleryCarousel from '../../components/GalleryCarousel.vue'
 
 export default {
   ...DefaultTheme,
-  Layout, 
+  Layout,
+  layouts: {
+    ...DefaultTheme.layouts,
+    mylayout: MyLayout
+  },
   enhanceApp({ app }) {
     app.component('FAQ', FAQ)
     app.component('PinterestEmbed', PinterestEmbed)

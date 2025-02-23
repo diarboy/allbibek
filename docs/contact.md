@@ -1,4 +1,4 @@
-# <span class="title">Contact Me</span>
+# Contact Me
 
 <div class="profile-card">
   <div class="profile-header">
@@ -7,31 +7,31 @@
       <h2>Allbibek</h2>
       <p>Senior Software Developer</p>
       <p>🌍 Based in Indonesia</p>
-      <em>Every lesson is a step in the journey, and <br>every note is a trace leading to deeper understanding.</em>
+      <em>Every lesson is a step in the journey,<br>and every note is a trace leading to deeper understanding.</em>
     </div>
   </div>
 </div>
 
-## <span class="title"> Get in Touch</span>
+## Get in Touch
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out through any of the following channels!
 
-## <span class="title"> Social Media</span>
+## Social Media
 
-- 🐦 **Twitter**: <span class="title">[@allbibek](https://x.com/allbibek)</span>
-- 💼 **LinkedIn**: <span class="title">[Ardi Syah](https://linkedin.com/in/ardibukan)</span>
-- 🐱 **GitHub**: <span class="title"> [@diarboy](https://github.com/diarboy)</span>
+- 💼 **LinkedIn**: ↗️ <span class="title">[Ardi Syah](https://linkedin.com/in/ardibukan)</span>
+- 🐱 **GitHub**: ↗️ <span class="title"> [@diarboy](https://github.com/diarboy)</span> 
+- 🐦 **Twitter**: ↗️ <span class="title">[@allbibek ](https://x.com/allbibek)</span> 
 
-## <span class="title">Direct Contact</span>
+## Direct Contact
 
 ::: tip
 The best way to reach me is through email or LinkedIn message.
 :::
 
 - 📧 **Email**: art_cha@yahoo.com
-- 💬 **Discord**: I don't have yet
+- 💬 **Discord**: ~~I don't have yet~~
 
-## <span class="title">Office Hours</span>
+## Office Hours
 
 I'm typically available for meetings and calls during these hours (UTC+7):
 
@@ -43,7 +43,7 @@ I'm typically available for meetings and calls during these hours (UTC+7):
 | Thursday  | 09:00 - 17:00 |
 | Friday    | 09:00 - 15:00 |
 
-## <span class="title">Consultation</span>
+## Consultation
 
 Need professional consultation? I offer services in:
 
@@ -59,7 +59,7 @@ Please contact me directly for current consultation rates. Rates vary based on:
 - Type of service
 :::
 
-## <span class="title">FAQ</span>
+## FAQ
 
 ### Do you accept guest blog posts?
 
@@ -77,15 +77,15 @@ I'm available for speaking engagements on topics related to:
 
 Yes, I provide mentoring services for developers looking to advance their careers. Contact me for availability and details.
 
-## <span class="title">Newsletter</span>
+## Newsletter
 
 Stay updated with my latest blog posts, tutorials, and tech insights!
 
 ::: tip Subscribe
-[Click here](#) to subscribe to my weekly newsletter
+[Click here](youtube.com/allbibek.) to subscribe to my weekly newsletter
 :::
 
-## <span class="title">Location</span>
+## Location
 
 Based in Indonesia, but available globally through remote collaboration.
 
@@ -133,7 +133,7 @@ Looking forward to connecting with you! 🚀
   -webkit-text-fill-color: transparent;
 }
 
-.profile-info p {
+.profile-info p, em {
   margin: 0.5rem 0;
   color: #666;
 }
