@@ -113,7 +113,7 @@
 }
 
 h2, div[class*="vp-doc"] h2 {
-  background: -webkit-linear-gradient(315deg, #9d50bb, #6e48aa);
+  background: -webkit-linear-gradient(90deg, #667eea, #f06292, #ffab91);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
