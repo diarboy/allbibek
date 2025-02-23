@@ -1,7 +1,3 @@
----
-layout: mylayout
----
-
 # Welcome to Allbibek
 
 Hi there 👋 Welcome to our documentation site! Let's explore some of the amazing features that VitePress offers.
