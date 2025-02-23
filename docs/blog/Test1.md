@@ -1,6 +1,6 @@
 # What is Life?  
 
-<PinterestIframe pinUrl="https://www.pinterest.com/pin/34832597112243536/" pinSize="small" />  
+<PinterestIframe pinUrl="https://www.pinterest.com/pin/34832597112243536/" pinSize="medium" />  
 
 Hidup di Indonesia kadang seperti berjalan di atas tali yang tak terlihat. Ada aturan-aturan tersirat yang tidak tertulis di buku mana pun, tapi wajib kamu patuhi jika ingin bertahan. Di sini, menjadi orang yang "iya-iya saja" jauh lebih mudah ketimbang harus mempertanyakan segala sesuatu. Berpikir kritis sering kali bukanlah keutamaan, melainkan beban. Bahkan, bisa dibilang, mencoba menggunakan logika dan ilmu pengetahuan untuk mempertanyakan hal-hal yang sudah mapan hanya akan membuatmu terasing.
 
