@@ -3,7 +3,7 @@ import mathjax3 from 'markdown-it-mathjax3';
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'allbibek',
+  title: 'allbibek.',
   description: 'Develop, Build, and Innovate with Confidence',
   base: '/allbibek/',
 
