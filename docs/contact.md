@@ -82,7 +82,7 @@ Yes, I provide mentoring services for developers looking to advance their career
 Stay updated with my latest blog posts, tutorials, and tech insights!
 
 ::: tip Subscribe
-[Click here](youtube.com/allbibek.) to subscribe to my weekly newsletter
+[Click here](#) to subscribe to my weekly newsletter
 :::
 
 ## Location
