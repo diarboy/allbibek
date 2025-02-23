@@ -1,6 +1,6 @@
 ---
-layout: home
-name: "Judul Blog Saya"
+layout: blog
+title: "Judul Blog Saya"
 date: 2025-02-23
 sections:
   - type: hero
