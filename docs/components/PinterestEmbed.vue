@@ -2,7 +2,11 @@
 import { onMounted } from "vue";
 
 const props = defineProps({
-  pinUrl: String
+  pinUrl: String,
+  pinSize: {
+    type: String,
+    default: "medium",
+  },
 });
 
 onMounted(() => {
@@ -15,5 +19,5 @@ onMounted(() => {
 </script>
 
 <template>
-  <a data-pin-do="embedPin" :href="pinUrl"></a>
+  <a data-pin-do="embedPin" :data-pin-width="pinSize" :href="pinUrl"></a>
 </template>
