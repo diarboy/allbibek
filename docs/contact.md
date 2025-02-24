@@ -1,6 +1,7 @@
 ---
 aside: false
-docFooter: false
+prev: false
+next: false
 lastUpdated: false
 ---
 
