@@ -1,4 +1,7 @@
-aside: false
+---
+layout: home
+---
+
 # Contact Me
 
 <div class="profile-card">
