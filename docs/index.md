@@ -24,9 +24,9 @@ features:
   - icon: 🛠️
     title: Developer Tools
     details: Discover essential tools and utilities that improve your development workflow.
-    link: https://github.com/vuejs/vitepress,
-    linkText: View on GitHub,
-    rel: external,
+    link: https://github.com/vuejs/vitepress
+    linkText: View on GitHub
+    rel: external
     target: _blank
   - icon: 📚
     title: Comprehensive Guides
@@ -34,7 +34,7 @@ features:
   - icon: 🔧
     title: Best Practices
     details: Learn industry-standard best practices for writing clean, maintainable code.
-    link: /contact,
+    link: /contact
     linkText: Get Started
   - icon: 🎨
     title: UI/UX Design
