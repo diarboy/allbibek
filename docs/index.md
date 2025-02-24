@@ -33,6 +33,7 @@ features:
     details: Access detailed tutorials and guides covering various development topics.
     link: /blog/intonesia
     linkText: Read More
+    rel: noopener noreferrer
   - icon: 🔧
     title: Best Practices
     details: Learn industry-standard best practices for writing clean, maintainable code.
