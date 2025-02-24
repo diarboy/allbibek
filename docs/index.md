@@ -34,6 +34,8 @@ features:
   - icon: 🔧
     title: Best Practices
     details: Learn industry-standard best practices for writing clean, maintainable code.
+    link: /contact,
+    linkText: Get Started
   - icon: 🎨
     title: UI/UX Design
     details: Explore modern design patterns and user experience principles.
