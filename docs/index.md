@@ -20,9 +20,14 @@ features:
   - icon: 🚀
     title: Performance First
     details: Learn optimization techniques and best practices for building high-performance applications.
+    link: /guide
   - icon: 🛠️
     title: Developer Tools
     details: Discover essential tools and utilities that improve your development workflow.
+    link: https://github.com/vuejs/vitepress,
+    linkText: View on GitHub,
+    rel: external,
+    target: _blank
   - icon: 📚
     title: Comprehensive Guides
     details: Access detailed tutorials and guides covering various development topics.
