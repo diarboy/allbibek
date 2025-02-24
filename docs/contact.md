@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Contact Me
 
 <div class="profile-card">
