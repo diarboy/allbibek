@@ -56,7 +56,7 @@ export default defineConfig({
       {
         text: 'Guide',
         collapsible: true,
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'Getting Started', link: '/guide' },
           { text: 'Tutorials', link: '/tutorials' },
