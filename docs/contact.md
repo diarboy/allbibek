@@ -1,5 +1,6 @@
 ---
-layout: home
+aside: false
+docFooter: false
 ---
 
 # Contact Me
