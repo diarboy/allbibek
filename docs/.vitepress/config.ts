@@ -36,20 +36,22 @@ export default defineConfig({
             text: 'Internal Link', 
             items: [
               { text: 'Blog', link: '/blog/intonesia' },
+              { text: 'Teams', link: '/team' },
               { text: '404', link: '/resources/internal/' },
             ],
           },
           {
             text: 'External Links',
             items: [
-              { text: 'Framer', link: 'https://allbibek.framer.website/' },
               { text: 'GitHub', link: 'https://github.com/diarboy' },
+              { text: 'Framer', link: 'https://allbibek.framer.website/' },
               { text: 'Meta', link: 'https://facebook.com/ardibukan' },
             ],
           },
           
         ],
       },
+      // { text: 'Menu Baru', link: '/menu-baru' },
     ],
 
     sidebar: [
