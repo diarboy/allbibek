@@ -1,3 +1,11 @@
+---
+sidebar: false
+outline: false
+prev: false
+next: false
+lastUpdated: false
+---
+
 | Hari       | Waktu                | Class    | Mata Kuliah                                      | SKS | Dosen                                | SIPEN                                    |
 |------------|----------------------|----------|--------------------------------------------------|-----|--------------------------------------|------------------------------------------|
 | Rabu       | 09:45:00 - 11:25:00  | A2 Kampus 1 | MANAJEMEN SISTEM INFORMASI KESEHATAN             | 2   | Fardhoni, A.Md.Kes., ST., MM         | Aurelia Septia Apriani                   |
