@@ -34,9 +34,9 @@
 
     .VPHomeHero .name {
       font-family: 'Comfortaa', sans-serif !important;
-      font-size: 2.5rem; /* Sesuaikan ukuran */
-      font-weight: 600; /* Bisa 300 (light) - 700 (bold) */
-      color: white; /* Atur warna agar terlihat */
+      font-size: 2.5rem; 
+      font-weight: 600;
+      color: white;
   }
 
   .VPHomeHero .text {
@@ -65,9 +65,9 @@
     }
   }
 
-  body {
+  /* body {
     font-family: 'Inter', sans-serif;
-  }
+  } */
 
   h1, h2, h3, h4, h5, h6,
   div[class*="vp-doc"] h1, 

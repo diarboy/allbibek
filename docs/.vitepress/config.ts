@@ -65,7 +65,6 @@ export default defineConfig({
           { text: 'Full-Stack Website', link: '/blog/full-stack' },
           { text: 'Dasar Regex', link: '/blog/regex' },
           { text: 'Layout', link: '/blog/layout' },
-          { text: 'jadwal', link: '/blog/jadwal' },
         ],
       },
       {
