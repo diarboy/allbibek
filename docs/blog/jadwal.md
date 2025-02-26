@@ -1,9 +1,5 @@
 ---
-sidebar: false
-outline: false
-prev: false
-next: false
-lastUpdated: false
+layout: home
 ---
 
 | Hari       | Waktu                | Class    | Mata Kuliah                                      | SKS | Dosen                                | SIPEN                                    |
