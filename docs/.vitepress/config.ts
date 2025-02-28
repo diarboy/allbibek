@@ -64,7 +64,6 @@ export default defineConfig({
           { text: 'Tutorials', link: '/tutorials' },
           { text: 'Full-Stack Website', link: '/blog/full-stack' },
           { text: 'Dasar Regex', link: '/blog/regex' },
-          { text: 'Layout', link: '/blog/layout' },
         ],
       },
       {
@@ -75,6 +74,7 @@ export default defineConfig({
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
           { text: 'Intonesia', link: '/blog/intonesia' },
+          { text: 'Embege', link: '/blog/embege' },
         ],
       },
     ],

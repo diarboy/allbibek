@@ -18,7 +18,7 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
 
 ### Yang ironisnya lagi
 <div style="display: flex; align-items: center; gap: 15px; flex-direction: row-reverse;">
-  <img src="https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg" alt="Ilustrasi" style="width: 200px; height: 150px; object-fit: cover;">
+  <img src="https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg" alt="Ilustrasi" style="width: 600px; height: 120px; object-fit: cover;">
   <div style="text-align: left;">
     <p style="font-size: 1em;">Banyak orang setuju bahwa <mark>Pendidikan itu penting</mark>. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
   </div>
@@ -80,6 +80,7 @@ Jika kita terus pasif dan `iya-iya saja`, maka masyarakat yang terjebak dalam lo
 
 >Karena satu-satunya jalan untuk benar-benar merdeka adalah membebaskan diri dari belenggu pola pikir yang menekan kita sejak lahir. Dan kebebasan itu harus diperjuangkan. Dengan pikiran, dengan kata-kata, dengan keberanian untuk tidak lagi tunduk.
 >
-<PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" />
+<PinterestEmbed pinUrl="https://www.pinterest.com/pin/34832597112243536/" pinSize="small"/>
 
-<PinterestIframe pinUrl="https://www.pinterest.com/pin/34832597112243536/" pinSize="medium" style="margin-top: 20px;" />  
+<!-- Versi Iframe -->
+<!-- <PinterestIframe pinUrl="https://www.pinterest.com/pin/34832597112243536/" pinSize="medium" style="margin-top: 20px;" />   -->
