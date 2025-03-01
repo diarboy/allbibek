@@ -1,4 +1,5 @@
-# Makan Siang dengan Kabar Buruk, Makan Malam dengan Kecemasan
+# Menu Makanan
+## Makan Siang dengan Kabar Buruk, Makan Malam dengan Kecemasan
 
 Pagi hari, kita dipaksa bangun dengan pesimis. Siang hari, kita disuguhi kabar buruk dan atraksi-atraksi politik yang tidak perlu. Menjelang malam, kita diberi menu kecemasan akan masa depan yang benar-benar membuat kita muntah karena asam lambung naik.
 
