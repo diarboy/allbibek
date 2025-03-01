@@ -12,7 +12,6 @@ export default defineConfig({
     ['link', { rel: 'stylesheet', href: '/allbibek/custom.css' }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }],
     ['link', { rel: 'stylesheet', href: 'https://api.fontshare.com/v2/css?f=manrope&display=swap' }],
-    // ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap' }],
   ],
   
   markdown: {
@@ -27,7 +26,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide' },
-      { text: 'Contact', link: '/contact' },
       { text: 'Gallery', link: '/gallery' },
       {
         text: 'Blog/Resources', 
@@ -36,6 +34,7 @@ export default defineConfig({
             text: 'Internal Link', 
             items: [
               { text: 'Blog', link: '/blog/intonesia' },
+              { text: 'Playground', link: '/playground' },
               { text: 'Teams', link: '/team' },
               { text: '404', link: '/resources/internal/' },
             ],
@@ -51,6 +50,7 @@ export default defineConfig({
           
         ],
       },
+      { text: 'Contact', link: '/contact' },
       // { text: 'Menu Baru', link: '/menu-baru' },
     ],
 

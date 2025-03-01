@@ -5,6 +5,7 @@ import PinterestEmbed from "../../components/PinterestEmbed.vue";
 import PinterestIframe from '../../components/PinterestIframe.vue'
 import GalleryMasonry from '../../components/GalleryMasonry.vue'
 import GalleryCarousel from '../../components/GalleryCarousel.vue'
+import MarkdownPlayground from '../../components/MarkdownPlayground.vue'
 
 export default {
   ...DefaultTheme,
@@ -15,5 +16,6 @@ export default {
     app.component('PinterestIframe', PinterestIframe)
     app.component('GalleryMasonry', GalleryMasonry)  
     app.component('GalleryCarousel', GalleryCarousel)
+    app.component('MarkdownPlayground', MarkdownPlayground)
   }
 }
