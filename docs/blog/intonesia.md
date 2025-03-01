@@ -1,7 +1,7 @@
 # Survival of The Shittest
 
 <div class="responsive-flex">
-  <img src="/img/sst.png" alt="Ilustrasi">
+  <img src="/img/hero1.png" alt="Ilustrasi">
   <div>
     <h5>Jangan Banyak Tanya! Ikuti Saja!</h5>
     <em>Begini Cara Bertahan di Indonesia.</em>
@@ -18,7 +18,7 @@ Negara ini birokratis hingga ke akar-akarnya. Jabatan berarti Kuasa, Kuasa berar
 
 ### Yang ironisnya lagi
 <div style="display: flex; align-items: center; gap: 15px; flex-direction: row-reverse;">
-  <img src="https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg" alt="Ilustrasi" style="width: 600px; height: 120px; object-fit: cover;">
+  <img src="https://i.pinimg.com/1200x/51/e6/c9/51e6c9c5d802478a2db1c645bac02e44.jpg" alt="Ilustrasi" style="width: 600px; height: 120px; object-fit: cover; border-radius: 10px;">
   <div style="text-align: left;">
     <p style="font-size: 1em;">Banyak orang setuju bahwa <mark>Pendidikan itu penting</mark>. Namun, ketika pendidikan menghasilkan individu yang berpikir kritis dan berani berbeda, reaksi yang diterima sering kali seperti ini:</p>
   </div>

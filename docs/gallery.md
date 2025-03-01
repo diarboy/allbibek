@@ -7,7 +7,7 @@ hero:
   text: Discover My Visual Journey 
   tagline: A collection of my best works, from photography to digital creations. 
   image:
-    src: /hero.png
+    src: /hero2.png
     alt: gallery
   actions:
     - theme: sponsor
