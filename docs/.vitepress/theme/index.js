@@ -6,6 +6,7 @@ import PinterestIframe from '../../components/PinterestIframe.vue'
 import GalleryMasonry from '../../components/GalleryMasonry.vue'
 import GalleryCarousel from '../../components/GalleryCarousel.vue'
 import MarkdownPlayground from '../../components/MarkdownPlayground.vue'
+import pdfmake from '../../components/pdfmake.vue'
 
 export default {
   ...DefaultTheme,
@@ -17,5 +18,6 @@ export default {
     app.component('GalleryMasonry', GalleryMasonry)  
     app.component('GalleryCarousel', GalleryCarousel)
     app.component('MarkdownPlayground', MarkdownPlayground)
+    app.component('pdfmake', pdfmake)
   }
 }
