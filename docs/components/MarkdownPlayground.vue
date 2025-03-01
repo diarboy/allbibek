@@ -68,10 +68,6 @@ const downloadDOCX = async () => {
 
 <template>
   <div class="playground-container">
-    <div class="editor">
-      <h3>Markdown Editor</h3>
-      <textarea v-model="markdownText" placeholder="Tulis Markdown di sini..."></textarea>
-    </div>
     <div class="preview">
       <h3>Preview HTML</h3>
       <div v-html="htmlOutput" class="output"></div>
@@ -81,6 +77,11 @@ const downloadDOCX = async () => {
           <button @click="downloadDOCX">Download DOCX</button>
         </div>
     </div>
+    <div class="editor">
+      <h3>Markdown Editor</h3>
+      <textarea v-model="markdownText" placeholder="Tulis Markdown di sini..."></textarea>
+    </div>
+
   </div>
 </template>
 
