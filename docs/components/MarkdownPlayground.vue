@@ -75,9 +75,11 @@ const downloadDOCX = async () => {
     <div class="preview">
       <h3>Preview HTML</h3>
       <div v-html="htmlOutput" class="output"></div>
-      <button @click="copyToClipboard">Copy HTML</button>
-      <button @click="downloadPDF">Download PDF</button>
-      <button @click="downloadDOCX">Download DOCX</button>
+        <div class="button-container">
+          <button @click="copyToClipboard">Copy HTML</button>
+          <button @click="downloadPDF">Download PDF</button>
+          <button @click="downloadDOCX">Download DOCX</button>
+        </div>
     </div>
   </div>
 </template>
@@ -106,14 +108,32 @@ textarea {
   background: #f8f8f8;
   border-radius: 5px;
 }
+
+.button-container {
+  display: flex;
+  justify-content: center; 
+  gap: 10px;
+  margin-top: 10px;
+}
+
 button {
   margin-top: 10px;
   padding: 8px 12px;
-  background: navy;
+  background: #2E7D32;
   color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   margin-right: 5px;
 }
+
+button:hover {
+  background: green;
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.98); 
+}
+
 </style>
