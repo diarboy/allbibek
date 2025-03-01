@@ -3,8 +3,12 @@ import { ref, watch } from "vue";
 import MarkdownIt from "markdown-it";
 import jsPDF from "jspdf";
 
+// Import docx.js dan file-saver
+import { Document, Packer, Paragraph, TextRun } from "docx";
+import { saveAs } from "file-saver";
+
 const md = new MarkdownIt();
-const markdownText = ref("# Selamat datang di Playground Markdown!\n\nCoba tulis sesuatu di sini.");
+const markdownText = ref("# Selamat datang di Playground Allbibek!\n\nCoba tulis sesuatu di sini.");
 const htmlOutput = ref(md.render(markdownText.value));
 
 watch(markdownText, (newValue) => {
@@ -23,14 +27,44 @@ const downloadPDF = () => {
   doc.save("markdown.pdf");
 };
 
-const downloadDOCX = () => {
-  const blob = new Blob([markdownText.value], { type: "application/msword" });
-  const link = document.createElement("a");
-  link.href = URL.createObjectURL(blob);
-  link.download = "markdown.docx";
-  link.click();
+const downloadDOCX = async () => {
+  const lines = markdownText.value.split("\n").map(line => {
+    if (line.startsWith("# ")) {
+      return new Paragraph({
+        children: [new TextRun({ text: line.replace("# ", ""), bold: true, size: 32 })],
+      });
+    } else if (line.startsWith("## ")) {
+      return new Paragraph({
+        children: [new TextRun({ text: line.replace("## ", ""), bold: true, size: 28 })],
+      });
+    } else if (line.startsWith("### ")) {
+      return new Paragraph({
+        children: [new TextRun({ text: line.replace("### ", ""), bold: true, size: 24 })],
+      });
+    } else if (line.startsWith("- ") || line.startsWith("* ")) {
+      return new Paragraph({
+        children: [new TextRun({ text: line.replace(/^- |^\* /, ""), bold: false })],
+        bullet: { level: 0 },
+      });
+    } else {
+      return new Paragraph({ children: [new TextRun(line)] });
+    }
+  });
+
+  const doc = new Document({
+    sections: [{ properties: {}, children: lines }],
+  });
+
+  try {
+    const buffer = await Packer.toBlob(doc);
+    saveAs(buffer, "markdown.docx");
+  } catch (error) {
+    console.error("Gagal membuat file DOCX:", error);
+    alert("Gagal mengunduh DOCX.");
+  }
 };
 </script>
+
 
 <template>
   <div class="playground-container">
@@ -41,9 +75,11 @@ const downloadDOCX = () => {
     <div class="preview">
       <h3>Preview HTML</h3>
       <div v-html="htmlOutput" class="output"></div>
-      <button @click="copyToClipboard">Copy HTML</button>
-      <button @click="downloadPDF">Download PDF</button>
-      <button @click="downloadDOCX">Download DOCX</button>
+        <div class="button-container">
+          <button @click="copyToClipboard">Copy HTML</button>
+          <button @click="downloadPDF">Download PDF</button>
+          <button @click="downloadDOCX">Download DOCX</button>
+        </div>
     </div>
   </div>
 </template>
@@ -72,14 +108,32 @@ textarea {
   background: #f8f8f8;
   border-radius: 5px;
 }
+
+.button-container {
+  display: flex;
+  justify-content: center; 
+  gap: 10px;
+  margin-top: 10px;
+}
+
 button {
   margin-top: 10px;
   padding: 8px 12px;
-  background: navy;
+  background: #2E7D32;
   color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   margin-right: 5px;
 }
+
+button:hover {
+  background: green;
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.98); 
+}
+
 </style>
