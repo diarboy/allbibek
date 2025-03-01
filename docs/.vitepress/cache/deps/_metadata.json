@@ -1,0 +1,82 @@
+{
+  "hash": "55a34271",
+  "configHash": "f7c280e5",
+  "lockfileHash": "0dff3eda",
+  "browserHash": "9097df92",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "aa25153c",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "5b979d74",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "c18902ba",
+      "needsInterop": false
+    },
+    "vue-easy-lightbox": {
+      "src": "../../../../node_modules/vue-easy-lightbox/dist/vue-easy-lightbox.esm.min.js",
+      "file": "vue-easy-lightbox.js",
+      "fileHash": "00c02d3d",
+      "needsInterop": false
+    },
+    "swiper/vue": {
+      "src": "../../../../node_modules/swiper/swiper-vue.mjs",
+      "file": "swiper_vue.js",
+      "fileHash": "ba982c9d",
+      "needsInterop": false
+    },
+    "markdown-it": {
+      "src": "../../../../node_modules/markdown-it/index.mjs",
+      "file": "markdown-it.js",
+      "fileHash": "20467ca8",
+      "needsInterop": false
+    },
+    "jspdf": {
+      "src": "../../../../node_modules/jspdf/dist/jspdf.es.min.js",
+      "file": "jspdf.js",
+      "fileHash": "5650ac75",
+      "needsInterop": false
+    },
+    "docx": {
+      "src": "../../../../node_modules/docx/dist/index.mjs",
+      "file": "docx.js",
+      "fileHash": "f0be0cba",
+      "needsInterop": false
+    },
+    "file-saver": {
+      "src": "../../../../node_modules/file-saver/dist/FileSaver.min.js",
+      "file": "file-saver.js",
+      "fileHash": "6503c969",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "html2canvas.esm-T2B2HELW": {
+      "file": "html2canvas__esm-T2B2HELW.js"
+    },
+    "purify.es-OAQKXHAP": {
+      "file": "purify__es-OAQKXHAP.js"
+    },
+    "index.es-5J2NR4PD": {
+      "file": "index__es-5J2NR4PD.js"
+    },
+    "chunk-LW4I4DCF": {
+      "file": "chunk-LW4I4DCF.js"
+    },
+    "chunk-2ALL2YQY": {
+      "file": "chunk-2ALL2YQY.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
