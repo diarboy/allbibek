@@ -35,6 +35,7 @@ export default defineConfig({
             items: [
               { text: 'Blog', link: '/blog/intonesia' },
               { text: 'Playground', link: '/playground' },
+              { text: 'Markdown', link: '/markdown' },
               { text: 'Teams', link: '/team' },
               { text: '404', link: '/resources/internal/' },
             ],
