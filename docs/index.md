@@ -63,3 +63,10 @@ Allbibek is your go-to resource for modern web development knowledge. Whether yo
 - 🔧 Developer tooling recommendations
 
 </div>
+
+<style scoped>
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+</style>
