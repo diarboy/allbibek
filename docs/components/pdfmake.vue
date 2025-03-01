@@ -6,7 +6,9 @@ import pdfFonts from "pdfmake/build/vfs_fonts";
 import { Document, Packer, Paragraph, TextRun } from "docx";
 import { saveAs } from "file-saver";
 
-pdfMake.vfs = pdfFonts.pdfMake.vfs;
+if (pdfMake && pdfFonts) {
+  pdfMake.vfs = pdfFonts.pdfMake ? pdfFonts.pdfMake.vfs : pdfFonts.vfs;
+}
 
 const md = new MarkdownIt();
 const markdownText = ref("# Selamat datang di Playground Allbibek!\n\nCoba tulis sesuatu di sini.");
