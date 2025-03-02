@@ -5,7 +5,7 @@
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-    --hero-text-gradient-light: linear-gradient(120deg, #bd34fe, #41d1ff 30%);
+    --hero-text-gradient-light: linear-gradient(120deg, #bd34fe, #41d1ff);
     --hero-text-gradient-dark: linear-gradient(120deg, white 10%, #41d1ff);
     /* --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #4c09b9 50%); original */
     --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #41d1ff 50%);
