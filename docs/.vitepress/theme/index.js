@@ -1,6 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
 // import Layout from '../../components/Layout.vue'
-// import FAQ from '../../components/FAQ.vue'
+import FAQ from '../../components/FAQ.vue'
 import PinterestEmbed from "../../components/PinterestEmbed.vue";
 import PinterestIframe from '../../components/PinterestIframe.vue'
 import GalleryMasonry from '../../components/GalleryMasonry.vue'
@@ -12,8 +12,7 @@ export default {
   ...DefaultTheme,
  // Layout,
   enhanceApp({ app }) {
-    app.component('FAQ', () => import('../../components/FAQ.vue'))
-   // app.component('FAQ', FAQ)
+    app.component('FAQ', FAQ)
     app.component('PinterestEmbed', PinterestEmbed)
     app.component('PinterestIframe', PinterestIframe)
     app.component('GalleryMasonry', GalleryMasonry)  
