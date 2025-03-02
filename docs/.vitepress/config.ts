@@ -81,7 +81,6 @@ export default defineConfig({
       },
     ],
     
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/diarboy' },
       { icon: 'atlassian', link: 'https://allbibek.framer.website' },

@@ -13,8 +13,8 @@ hero:
       text: Get Started
       link: /guide
     - theme: alt
-      text: Contact Me
-      link: /contact
+      text: Explore My Work
+      link: /gallery
 
 features:
   - icon: 🚀

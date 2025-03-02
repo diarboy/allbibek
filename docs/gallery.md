@@ -11,8 +11,8 @@ hero:
     alt: gallery
   actions:
     - theme: sponsor
-      text: See My Portfolio
-      link: /guide
+      text: What a Blog
+      link: /blog/introduction
     - theme: brand
       text: Hire Me
       link: /contact
