@@ -408,10 +408,10 @@ var require_shared_store = __commonJS({
     var SHARED = "__core-js_shared__";
     var store = module.exports = globalThis3[SHARED] || defineGlobalProperty(SHARED, {});
     (store.versions || (store.versions = [])).push({
-      version: "3.40.0",
+      version: "3.41.0",
       mode: IS_PURE3 ? "pure" : "global",
       copyright: "© 2014-2025 Denis Pushkarev (zloirock.ru)",
-      license: "https://github.com/zloirock/core-js/blob/v3.40.0/LICENSE",
+      license: "https://github.com/zloirock/core-js/blob/v3.41.0/LICENSE",
       source: "https://github.com/zloirock/core-js"
     });
   }
@@ -10359,4 +10359,4 @@ svg-pathdata/lib/SVGPathData.module.js:
   PERFORMANCE OF THIS SOFTWARE.
   ***************************************************************************** *)
 */
-//# sourceMappingURL=index.es-5J2NR4PD.js.map
+//# sourceMappingURL=index.es-T5X3BX5E.js.map
