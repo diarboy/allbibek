@@ -1,3 +1,4 @@
+# Survival of The Shittest
 <div class="responsive-flex">
   <img src="/img/hero1.png" alt="Ilustrasi">
   <div>
@@ -5,8 +6,6 @@
     <em>Begini Cara Bertahan di Indonesia.</em>
   </div>
 </div>
-
-# Survival of The Shittest
 
 ## Manut Saja
 
