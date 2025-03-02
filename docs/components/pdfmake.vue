@@ -83,11 +83,11 @@ const downloadDOCX = async () => {
     <div class="preview">
       <h3>Preview HTML</h3>
       <div v-html="htmlOutput" class="output"></div>
-        <div class="button-container">
-          <button @click="copyToClipboard">Copy HTML</button>
-          <button @click="downloadPDF">Download PDF</button>
-          <button @click="downloadDOCX">Download DOCX</button>
-        </div>
+      <div class="button-container">
+        <button @click="copyToClipboard">Copy HTML</button>
+        <button @click="downloadPDF">Download PDF</button>
+        <button @click="downloadDOCX">Download DOCX</button>
+      </div>
     </div>
   </div>
 </template>
@@ -95,12 +95,15 @@ const downloadDOCX = async () => {
 <style scoped>
 .playground-container {
   display: flex;
+  flex-direction: column;
   gap: 20px;
   margin-top: 20px;
 }
+
 .editor, .preview {
-  width: 50%;
+  width: 100%;
 }
+
 textarea {
   width: 100%;
   height: 300px;
@@ -109,17 +112,21 @@ textarea {
   border-radius: 5px;
   font-family: monospace;
 }
+
 .output {
   border: 1px solid #ccc;
   min-height: 300px;
   padding: 10px;
-  background: #f8f8f8;
+  background: transparent;
   border-radius: 5px;
+  overflow: auto;
+  word-wrap: break-word;
+  color: var(--vp-c-text-1);
 }
 
 .button-container {
   display: flex;
-  justify-content: center; 
+  justify-content: center;
   gap: 10px;
   margin-top: 10px;
 }
@@ -141,6 +148,15 @@ button:hover {
 }
 
 button:active {
-  transform: scale(0.98); 
+  transform: scale(0.98);
+}
+
+@media (min-width: 768px) {
+  .playground-container {
+    flex-direction: row;
+  }
+  .editor, .preview {
+    width: 50%;
+  }
 }
 </style>
