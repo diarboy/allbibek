@@ -33,7 +33,7 @@ export default defineConfig({
           { 
             text: 'Internal Link', 
             items: [
-              { text: 'Blog', link: '/blog/intonesia' },
+              { text: 'Blog', link: '/blog/introduction' },
               { text: 'Playground', link: '/playground' },
               { text: 'PDF', link: '/pdfmake' },
               { text: 'Teams', link: '/team' },
@@ -72,6 +72,7 @@ export default defineConfig({
         collapsible: true,
         collapsed: false,
         items: [
+          { text: 'Introduction', link: '/blog/introduction' },
           { text: 'Coretax', link: '/blog/coretax' },
           { text: 'Jenis dan Peran dalam Perdagangan', link: '/blog/perdagangan' },
           { text: 'Intonesia', link: '/blog/intonesia' },
