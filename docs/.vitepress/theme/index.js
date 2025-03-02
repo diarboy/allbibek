@@ -13,7 +13,7 @@ export default {
  // Layout,
   enhanceApp({ app }) {
     app.component('FAQ', () => import('../../components/FAQ.vue'))
-    app.component('FAQ', FAQ)
+   // app.component('FAQ', FAQ)
     app.component('PinterestEmbed', PinterestEmbed)
     app.component('PinterestIframe', PinterestIframe)
     app.component('GalleryMasonry', GalleryMasonry)  
