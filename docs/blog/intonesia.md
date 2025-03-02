@@ -1,5 +1,3 @@
-# Survival of The Shittest
-
 <div class="responsive-flex">
   <img src="/img/hero1.png" alt="Ilustrasi">
   <div>
@@ -7,6 +5,8 @@
     <em>Begini Cara Bertahan di Indonesia.</em>
   </div>
 </div>
+
+# Survival of The Shittest
 
 ## Manut Saja
 
@@ -55,14 +55,6 @@ Tan Malaka menyebut logika mistika sebagai tradisi berpikir feodal, warisan sist
   </div>
 </div> -->
 
-<div class="responsive-flex">
-  <img src="https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 5%;">
-  <div style="text-align: center;">
-    <h5>Normalisasi Ketidaknormalan</h5>
-    <em>Welcome To Intonesia.</em>
-  </div>
-</div>
-
 ## Revolusi Berpikir
 <!--
 <PinterestEmbed pinUrl="https://www.pinterest.com/pin/358810295291571971/" />
@@ -75,6 +67,14 @@ Mungkin dukun sudah sedikit, tapi mereka menjelma jadi influencer, abang-abangan
 Jika kita terus pasif dan `iya-iya saja`, maka masyarakat yang terjebak dalam logika mistika akan melahirkan pemerintah dengan cara berpikir serupa. Contohnya? Anggaran riset dan anggaran pendidikan, yang lebih kecil daripada biaya rapat DPR di hotel-hotel. Akademisi dikecilkan karena dianggap <mark>"tidak sesuai realita",</mark> sementara paranormal tetap dipercaya lebih dari ilmu.
 
 **Tapi haruskah kita menyerah?** Tidak. Revolusi berpikir adalah awal dari revolusi yang sesungguhnya. Kita harus terus mempertanyakan, meski lelah. Kita harus terus mencari kebenaran, meski sedikit kesepian.
+
+<div class="responsive-flex">
+  <img src="https://i.pinimg.com/736x/a3/67/89/a36789b269d3ddc150939a31b3a390dd.jpg" alt="Ilustrasi" style="width: 200px; height: auto; border-radius: 5%;">
+  <div style="text-align: center;">
+    <h5>Normalisasi Ketidaknormalan</h5>
+    <em>Welcome To Intonesia.</em>
+  </div>
+</div>
 
 ## Menuju Kebenaran
 
