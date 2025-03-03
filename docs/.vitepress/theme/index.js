@@ -21,5 +21,6 @@ export default {
     mermaid.initialize({
       startOnLoad: true,
       theme: 'default',
+    }),
   }
 }
