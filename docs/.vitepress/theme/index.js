@@ -19,7 +19,7 @@ export default {
     app.component('MarkdownPlayground', MarkdownPlayground)
     app.component('pdfmake', pdfmake)
     mermaid.initialize({
-      startOnLoad: true;
+      startOnLoad: true,
     });
   },
 }
