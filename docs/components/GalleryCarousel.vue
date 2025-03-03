@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="gallery-title">Explore More Collections </h2>
+    <h2 class="gallery-title">Explore More &darr;</h2>
     <div class="carousel">
       <!-- Tombol Prev -->
       <button @click="prev" class="carousel-btn prev">❮</button>

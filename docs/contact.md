@@ -20,12 +20,8 @@ lastUpdated: false
 </div>
 
 ## Get in Touch
-
-<div align="center">
   
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out through any of the following channels!
-
-</div>
 
 ## Social Media
 

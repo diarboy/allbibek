@@ -30,9 +30,9 @@ features:
 
 <section>
 <div class="gallery-content">
-  
-## Welcome to My Gallery
-Enjoy a collection of my best works.
+
+  <h2>Welcome to My Gallery</h2>
+  <p> Enjoy a collection of my best works. </p>
 
 </div>
 </section>
@@ -48,11 +48,29 @@ Enjoy a collection of my best works.
 
 <style>
 
-  .gallery-content h2,
+  .gallery-content h2 {
+    font-family: 'Manrope', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    letter-spacing: -0.05em;
+    line-height: 1.3;
+    color: transparent;
+    background: var(--hero-text-gradient-light);
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-align: center;
+  }
+
+  html.dark .gallery-content h2 {
+    background: var(--hero-text-gradient-dark);
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+  
   .gallery-content p {
     text-align: center;
   }
-  
+
 @media (max-width: 768px) {
   .gallery-hero { height: 40vh; }
   .gallery-hero h1 { font-size: 2rem; }
