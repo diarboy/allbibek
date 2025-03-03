@@ -37,7 +37,7 @@ The best way to reach me is through email or LinkedIn message.
 :::
 
 - 📧 **Email**: art_cha@yahoo.com
-- <span class="subtitle">[hello@allbibek.com](art_cha@yahoo.com)</span>
+- <span class="subtitle">[hello@allbibek.com](mailto:art_cha@yahoo.com)</span>
 - 💬 **Discord**: ~~I don't have yet~~
 
 ## Office Hours
