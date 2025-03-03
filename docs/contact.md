@@ -4,8 +4,7 @@ prev: false
 next: false
 lastUpdated: false
 ---
-
-<div align="center">
+  
 # Contact Me
 
 <div class="profile-card">
@@ -22,7 +21,11 @@ lastUpdated: false
 
 ## Get in Touch
 
+<div align="center">
+  
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out through any of the following channels!
+
+</div>
 
 ## Social Media
 
@@ -100,8 +103,6 @@ Based in Indonesia, but available globally through remote collaboration.
 ---
 
 Looking forward to connecting with you! 🚀
-
-</div>
 
 <style>
 .profile-card {
