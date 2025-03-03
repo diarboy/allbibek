@@ -5,6 +5,7 @@ next: false
 lastUpdated: false
 ---
 
+<div align="center">
 # Contact Me
 
 <div class="profile-card">
@@ -99,6 +100,8 @@ Based in Indonesia, but available globally through remote collaboration.
 ---
 
 Looking forward to connecting with you! 🚀
+
+</div>
 
 <style>
 .profile-card {
