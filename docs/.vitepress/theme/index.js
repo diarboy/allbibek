@@ -6,7 +6,7 @@ import GalleryMasonry from '../../components/GalleryMasonry.vue'
 import GalleryCarousel from '../../components/GalleryCarousel.vue'
 import MarkdownPlayground from '../../components/MarkdownPlayground.vue'
 import pdfmake from '../../components/pdfmake.vue'
-import mermaid fron 'mermaid'
+import mermaid from 'mermaid'
 
 export default {
   ...DefaultTheme,
