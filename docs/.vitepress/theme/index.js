@@ -7,6 +7,7 @@ import MarkdownPlayground from '../../components/MarkdownPlayground.vue'
 import pdfmake from '../../components/pdfmake.vue'
 import FAQ from '../../components/FAQ.vue'
 import Mermaid from '../../components/Mermaid.vue'
+import Sch from '../../components/Schedule.vue'
 
 export default {
   ...DefaultTheme,
@@ -19,5 +20,6 @@ export default {
     app.component('MarkdownPlayground', MarkdownPlayground)
     app.component('pdfmake', pdfmake)
     app.component('Mermaid', Mermaid)
+    app.component('Sch', Sch)
   }
 }
