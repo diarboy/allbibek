@@ -3,6 +3,9 @@ layout: page
 ---
 
 <script setup>
+import Parallax from '/components/Parallax.vue';
+import HeroParallax from '/components/HeroParallax.vue';
+
 import {
   VPTeamPage,
   VPTeamPageTitle,
@@ -59,6 +62,12 @@ const contributors = [
 ]
 </script>
 
+<HeroParallax>
+  <span style="font-size: 3.5rem;">🚀</span>
+  <h1>Meet Our Teammate.</h1>
+  <p>Our team consists of open-source contributors!</p>
+</HeroParallax>
+
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
@@ -75,3 +84,5 @@ const contributors = [
   <!-- Contributors -->
   <VPTeamMembers size="small" :members="contributors" />
 </VPTeamPage>
+
+<Parallax />

@@ -29,6 +29,13 @@ features:
 ---
 
 <section>
+
+<HeroParallax>
+  <span style="font-size: 2.5rem;">🚀</span>
+  <h1>Love Capture.</h1>
+  <p>Each image I capture is a story waiting to be told, a moment frozen in time, and an emotion expressed through light and shadow.!</p>
+</HeroParallax>
+
 <div class="gallery-content">
 
   <h2>Welcome to My Gallery</h2>
@@ -45,6 +52,12 @@ features:
     <GalleryCarousel />
   </ClientOnly>
 </section>
+
+<script setup>
+
+import HeroParallax from '/components/HeroParallax.vue';
+
+</script>
 
 <style>
 
@@ -74,6 +87,7 @@ features:
 @media (max-width: 768px) {
   .gallery-hero { height: 40vh; }
   .gallery-hero h1 { font-size: 2rem; }
+  .gallery-content h2 { font-size: 2rem; }
   .gallery-hero p { font-size: 1rem; }
   .features-container { grid-template-columns: 1fr; }
   .feature-item { max-width: 90%; margin: 0 auto; }
