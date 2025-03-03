@@ -23,6 +23,18 @@ Welcome to the **Blog** section! 🎉 This space is dedicated to sharing insight
 - Engage with the community by **suggesting topics** or sharing experiences.
 - Follow for updates and **new content drops!**
 
+# Diagram Alur Proses
+
+::: mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>Bob: Halo, Bob!
+    Bob-->>Alice: Halo, Alice!
+:::
+
+## Flowchart
+
 ::: mermaid
 graph TD;
     A[Start] --> B{Decision};
