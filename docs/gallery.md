@@ -30,18 +30,19 @@ features:
 
 <section>
 
-<HeroParallax>
-  <span style="font-size: 2.5rem;">🚀</span>
-  <h1>Love Capture.</h1>
-  <p>Each image I capture is a story waiting to be told, a moment frozen in time, and an emotion expressed through light and shadow.!</p>
-</HeroParallax>
-
 <div class="gallery-content">
 
   <h2>Welcome to My Gallery</h2>
   <p> Enjoy a collection of my best works. </p>
 
 </div>
+
+<HeroParallax>
+  <span style="font-size: 2.5rem;">📷</span>
+  <h1>Love Capture.</h1>
+  <p>Each image I capture is a story waiting to be told, a moment frozen in time, and an emotion expressed through light and shadow.!</p>
+</HeroParallax>
+
 </section>
 
 <section class="gallery-content">
