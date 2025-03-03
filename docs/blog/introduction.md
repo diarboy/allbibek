@@ -23,5 +23,12 @@ Welcome to the **Blog** section! 🎉 This space is dedicated to sharing insight
 - Engage with the community by **suggesting topics** or sharing experiences.
 - Follow for updates and **new content drops!**
 
+::: mermaid
+graph TD;
+    A[Start] --> B{Decision};
+    B -->|Yes| C[Do Something];
+    B -->|No| D[End];
+:::
+
 🚀 **Happy exploring!** 🎨💡
 
