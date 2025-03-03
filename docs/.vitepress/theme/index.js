@@ -6,6 +6,7 @@ import GalleryMasonry from '../../components/GalleryMasonry.vue'
 import GalleryCarousel from '../../components/GalleryCarousel.vue'
 import MarkdownPlayground from '../../components/MarkdownPlayground.vue'
 import pdfmake from '../../components/pdfmake.vue'
+import mermaid fron 'mermaid'
 
 export default {
   ...DefaultTheme,
@@ -17,5 +18,8 @@ export default {
     app.component('GalleryCarousel', GalleryCarousel)
     app.component('MarkdownPlayground', MarkdownPlayground)
     app.component('pdfmake', pdfmake)
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'default',
   }
 }
