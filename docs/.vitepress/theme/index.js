@@ -20,7 +20,6 @@ export default {
     app.component('pdfmake', pdfmake)
     mermaid.initialize({
       startOnLoad: true,
-      theme: 'default',
     }),
   }
 }
