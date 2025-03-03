@@ -1,12 +1,12 @@
 import DefaultTheme from 'vitepress/theme'
-import FAQ from '../../components/FAQ.vue'
 import PinterestEmbed from "../../components/PinterestEmbed.vue";
 import PinterestIframe from '../../components/PinterestIframe.vue'
 import GalleryMasonry from '../../components/GalleryMasonry.vue'
 import GalleryCarousel from '../../components/GalleryCarousel.vue'
 import MarkdownPlayground from '../../components/MarkdownPlayground.vue'
 import pdfmake from '../../components/pdfmake.vue'
-import mermaid from 'mermaid'
+import FAQ from '../../components/FAQ.vue'
+import Mermaid from '../../components/Mermaid.vue'
 
 export default {
   ...DefaultTheme,
@@ -18,9 +18,6 @@ export default {
     app.component('GalleryCarousel', GalleryCarousel)
     app.component('MarkdownPlayground', MarkdownPlayground)
     app.component('pdfmake', pdfmake)
-    mermaid.initialize({
-      startOnLoad: true,
-      theme: 'default',
-    });
-  },
+    app.component('Mermaid', Mermaid)
+  }
 }
