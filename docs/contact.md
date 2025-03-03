@@ -12,7 +12,7 @@ lastUpdated: false
   <div class="profile-header">
   <img src="/hero.png" alt="Avatar Allbibek" class="avatar" style="width:200px; border-radius:50%;">
     <div class="profile-info">
-      <h2>Allbibek</h2>
+      <h2>allbibek</h2>
       <p>Senior Software Developer</p>
       <p>🌍 Based in Indonesia</p>
       <em>Every lesson is a step in the journey,<br>and every note is a trace leading to deeper understanding.</em>
@@ -36,8 +36,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 The best way to reach me is through email or LinkedIn message.
 :::
 
-- 📧 **Email**: art_cha@yahoo.com
-- <span class="subtitle">[hello@allbibek.com](mailto:art_cha@yahoo.com)</span>
+- 📧 **Email**: <span class="subtitle">[hello@allbibek.com](mailto:art_cha@yahoo.com)</span>
 - 💬 **Discord**: ~~I don't have yet~~
 
 ## Office Hours
